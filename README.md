@@ -77,12 +77,17 @@ The core work is presented in three Jupyter Notebooks, located in the `notebooks
 * **Functionality:** This notebook demonstrates how to load a single document (MDR.pdf), split it into chunks, embed it using their default function, and store it in ChromaDB. It then answers user questions based solely on the MDR document.
 * **How to use:** Open and run the cells sequentially to see the basic RAG pipeline in action.
 
-### 2. `Gap_Analysis_RAG.ipynb`
+### 2. `Gap_RAG.ipynb`
 * **Purpose:** The core logic for the comparative analysis.
 * **Functionality:** This notebook advances the RAG system to handle two documents (MDD and MDR). It vectorizes both, adding `source` metadata to each chunk. The query and prompting logic is specifically designed to retrieve context from both sources and instruct the LLM to perform a gap analysis. It also features a processing functions to handle short paragraphs and identify potential titles.
 * **How to use:** Again, open and run the cells sequentially. This notebook contains the engine for the Gradio app and is perfect for understanding the detailed implementation of the comparison logic.
 
-### 3. `Gradio_App.ipynb`
+### 3. `Gradio_RAG.ipynb`
 * **Purpose:** A fully functional web application prototype.
 * **Functionality:** This notebook wraps the entire gap analysis pipeline from the previous notebook into an interactive Gradio interface. It initializes the vector database on startup and provides a user-friendly UI for asking questions and receiving a consultant-style analysis.
-* **How to use:** The code is formatted in a single cell. Run the cell and the app will start. Note: is the share parameter on the launch function is set to True, it will also create a public URL to showcase the application.
+* **How to use:** The code is formatted in a single cell. Run the cell and the app will start. Note: if the share parameter on the launch function is set to True, it will also create a public URL to showcase the application.
+
+### 4. `Gradio_txt_RAG.ipynb`
+* **Purpose:** An improved, text-based, fully functional RAG prototype.
+* **Functionality:** This notebook switches from the PDF chunking to a more effective txt chunking. Creates a golden dataset focusing less on the low-level PDF logic that is harder to implement in the short term, highly improving answers' source relevance.
+* **How to use:** The code is formatted in a single cell. Run the cell and the app will start. Note: if the share parameter on the launch function is set to True, it will also create a public URL to showcase the application.
