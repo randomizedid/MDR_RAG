@@ -1,0 +1,1564 @@
+Center for Devices and Radiological Health
+DESIGN CONTROL GUIDANCE
+FOR
+MEDICAL DEVICE MANUFACTURERS
+This Guidance relates to
+FDA 21 CFR 820.30 and Sub-clause 4.4 of ISO 9001
+
+FOREWORD
+To ensure that good quality assurance practices are used for the design of medical devices
+and that they are consistent with quality system requirements worldwide, the Food and
+Drug Administration revised the Current Good Manufacturing Practice (CGMP)
+requirements by incorporating them into the Quality System Regulation, 21 CFR Part 820.
+An important component of the revision is the addition of design controls.
+Because design controls must apply to a wide variety of devices, the regulation does not
+prescribe the practices that must be used. Instead, it establishes a framework that
+manufacturers must use when developing and implementing design controls. The
+framework provides manufacturers with the flexibility needed to develop design controls
+that both comply with the regulation and are most appropriate for their own design and
+development processes.
+This guidance is intended to assist manufacturers in understanding the intent of the
+regulation. Design controls are based upon quality assurance and engineering principles.
+This guidance complements the regulation by describing its intent from a technical
+perspective using practical terms and examples.
+Draft guidance was made publicly available in March, 1996. We appreciate the many
+comments, suggestions for improvement, and encouragement we received from industry,
+interested parties, and the Global Harmonization Task Force (GHTF) Study Group 3.
+The comments were systematically reviewed, and revisions made in response to those
+comments and suggestions are incorporated in this version. As experience is gained with
+the guidance, FDA will consider the need for additional revisions within the next six to
+eighteen months.
+The Center publishes the results of its work in scientific journals and in its own technical
+reports. Through these reports, CDRH also provides assistance to industry and to the
+medical and healthcare professional communities in complying with the laws and
+regulations mandated by Congress. These reports are sold by the Government Printing
+Office (GPO) and by the National Technical Information Service (NTIS). Many reports,
+including this guidance document, are also available via Internet on the World Wide Web
+at www.fda.gov.
+We welcome your comments and suggestions for future revisions.
+
+PREFACE
+Effective implementation of design controls requires that the regulation and its intent be well
+understood. The Office of Compliance within CDRH is using several methods to assist
+manufacturers in developing this understanding. Methods include the use of presentations,
+teleconferences, practice audits, and written guidance.
+Those persons in medical device companies charged with responsibility for developing,
+implementing, or applying design controls come from a wide variety of technical and non-technical
+backgrounds––engineering, business administration, life sciences, computer science, and the arts.
+Therefore, it is important that a tool be provided that conveys the intent of the regulation using
+practical terminology and examples. That is the purpose of his guidance.
+The response of medical device manufacturers and other interested parties to the March, 1996 draft
+version of this guidance has significantly influenced this latest version. Most comments centered
+on the complaint that the guidance was too prescriptive. Therefore, it has been rewritten to be
+more pragmatic, focusing on principles rather than specific practices.
+It is noteworthy that many comments offered suggestions for improving the guidance, and that the
+authors of the comments often acknowledged the value of design controls and the potential benefit
+of good guidance to the medical device industry, the public, and the FDA. Some comments even
+included examples of past experiences with the implementation of controls.
+Finally, there are several people within CDRH that deserve recognition for their contributions to
+the development of this guidance. Al Taylor and Bill Midgette of the Office of Science and
+Technology led the development effort and served as co-chairs of the CDRH Design Control
+Guidance Team that reviewed the comments received last spring. Team members included Ashley
+Boulware, Bob Cangelosi, Andrew Lowrey, Deborah Lumbardo, Jack McCracken, Greg
+O'Connell, and Walter Scott. As the lead person within CDRH with responsibility for
+implementing the Quality System Regulation, Kim Trautman reviewed the guidance and
+coordinated its development with the many other concurrent and related activities. Their
+contributions are gratefully acknowledged.
+FDA would also like to acknowledge the significant contributions made by the Global
+Harmonization Task Force (GHTF) Study Group 3. The Study Group reviewed and revised this
+guidance at multiple stages during its development. It is hoped that this cooperative effort will lead
+to this guidance being accepted as an internationally recognized guidance document through the
+GHTF later this year.
+
+ACKNOWLEDGEMENT
+FDA wishes to acknowledge the contributions of the Global Harmonization Task Force
+(GHTF) Study Group 3 to the development of this guidance. As has been stated in the
+past, FDA is firmly committed to the international harmonization of standards and
+regulations governing medical devices. The GHTF was formed in 1992 to further this
+effort. The GHTF includes representatives of the Canadian Ministry of Health and
+Welfare; the Japanese Ministry of Health and Welfare; FDA; industry members from the
+European Union, Australia, Canada, Japan, and the United States; and a few delegates
+from observing countries.
+Among other efforts, the GHTF Study Group 3 started developing guidance on the
+application of design controls to medical devices in the spring of 1995. Study Group 3
+has recognized FDA’s need to publish timely guidance on this topic in conjunction with
+promulgation of its new Quality System Regulation. The Study Group has therefore
+devoted considerable time and effort to combine its draft document with the FDA's efforts
+as well as to review and comment on FDA's subsequent revisions. FDA, for its part,
+delayed final release of its guidance pending final review by the Study Group. As a result,
+it is hoped that this document, with some minor editorial revisions to make the guidance
+global to several regulatory schemes, will be recognized through the GHTF as an
+international guidance document.
+
+TABLE OF CONTENTS
+FOREWORD ................................................................................................................... i
+PREFACE...................................................................................................................... iii
+ACKNOWLEDGEMENT.............................................................................................. iv
+TABLE OF CONTENTS ................................................................................................ v
+INTRODUCTION .......................................................................................................... 1
+SECTION A. GENERAL............................................................................................... 7
+SECTION B. DESIGN AND DEVELOPMENT PLANNING ........................................ 9
+SECTION C. DESIGN INPUT .................................................................................... 13
+SECTION D. DESIGN OUTPUT ................................................................................ 19
+SECTION E. DESIGN REVIEW................................................................................. 23
+SECTION F. DESIGN VERIFICATION ..................................................................... 29
+SECTION G. DESIGN VALIDATION ....................................................................... 33
+SECTION H. DESIGN TRANSFER............................................................................ 37
+SECTION I. DESIGN CHANGES............................................................................... 39
+SECTION J. DESIGN HISTORY FILE (DHF)............................................................ 43
+
+INTRODUCTION
+I. PURPOSE
+This guidance is intended to assist manufacturers in understanding quality system
+requirements concerning design controls. Assistance is provided by interpreting the
+language of the quality systems requirements and explaining the underlying concepts in
+practical terms.
+Design controls are an interrelated set of practices and procedures that are incorporated
+into the design and development process, i.e., a system of checks and balances. Design
+controls make systematic assessment of the design an integral part of development. As a
+result, deficiencies in design input requirements, and discrepancies between the proposed
+designs and requirements, are made evident and corrected earlier in the development
+process. Design controls increase the likelihood that the design transferred to production
+will translate into a device that is appropriate for its intended use.
+In practice, design controls provide managers and designers with improved visibility of the
+design process. With improved visibility, managers are empowered to more effectively
+direct the design process—that is, to recognize problems earlier, make corrections, and
+adjust resource allocations. Designers benefit both by enhanced understanding of the
+degree of conformance of a design to user and patient needs, and by improved
+communications and coordination among all participants in the process.
+The medical device industry encompasses a wide range of technologies and applications,
+ranging from simple hand tools to complex computer-controlled surgical machines, from
+implantable screws to artificial organs, from blood-glucose test strips to diagnostic
+imaging systems and laboratory test equipment. These devices are manufactured by
+companies varying in size and structure, methods of design and development, and methods
+of management. These factors significantly influence how design controls are actually
+applied. Given this diversity, this guidance does not suggest particular methods of
+implementation, and therefore, must not be used to assess compliance with the quality
+system requirements. Rather, the intent is to expand upon the distilled language of the
+quality system requirements with practical explanations and examples of design control
+principles. Armed with this basic knowledge, manufacturers can and should seek out
+technology-specific guidance on applying design controls to their particular situation.
+When using this guidance, there could be a tendency to focus only on the time and effort
+required in developing and incorporating the controls into the design process. However,
+readers should keep in mind the intrinsic value of design controls as well. It is a well 
+established fact that the cost to correct design errors is lower when errors are detected
+early in the design and development process. Large and small companies that have
+achieved quality systems certification under ISO 9001 cite improvements in productivity,
+product quality, customer satisfaction, and company competitiveness. Additional benefits
+
+
+Introduction
+are described in comments received from a quality assurance manager of a medical device
+firm regarding the value of a properly documented design control system:
+“...there are benefits to an organization and the quality improvement of an
+organization by having a written design control system. By defining this system on
+paper, a corporation allows all its employees to understand the requirements, the
+process, and expectations of design and how the quality of design is assured and
+perceived by the system. It also provides a baseline to review the system
+periodically for further improvements based on history, problems, and failures of
+the system (not the product).”
+II. SCOPE
+The guidance applies to the design of medical devices as well as the design of the
+associated manufacturing processes. The guidance is applicable to new designs as well as
+modifications or improvements to existing device designs. The guidance discusses
+subjects in the order in which they appear in FDA's Quality System regulation and is cross
+referenced to International Organization for Standards (ISO) 9001:1994, Quality
+SystemsModel for Quality Assurance in Design, Development, Production,
+Installation, and Servicing, and the ISO draft international standard ISO/DIS 13485,
+Quality SystemsMedical DevicesParticular Requirements for the Application of ISO
+9001, dated April 1996.
+Design controls are a component of a comprehensive quality system that covers the life of
+a device. The assurance process is a total systems approach that extends from the
+development of device requirements through design, production, distribution, use,
+maintenance, and eventually, obsolescence. Design control begins with development and
+approval of design inputs, and includes the design of a device and the associated
+manufacturing processes.
+Design control does not end with the transfer of a design to production. Design control
+applies to all changes to the device or manufacturing process design, including those
+occurring long after a device has been introduced to the market. This includes
+evolutionary changes such as performance enhancements as well as revolutionary changes
+such as corrective actions resulting from the analysis of failed product. The changes are
+part of a continuous, ongoing effort to design and develop a device that meets the needs
+of the user and/or patient. Thus, the design control process is revisited many times during
+the life of a product.
+Some tools and techniques are described in the guidance. Although aspects of their utility
+are sometimes described, they are included in the guidance for illustrative purposes only.
+Including them does not mean that they are preferred. There may be alternative ways that
+are better suited to a particular manufacturer and design activity. The literature contains an
+abundance of information on tools and techniques. Such topics as project management,
+design review, process capability, and many others referred to in this guidance areavailable in textbooks, periodicals, and journals. As a manufacturer applies design controls
+to a particular task, the appropriate tools and techniques used by competent personnel
+should be applied to meet the needs of the unique product or process for that
+manufacturer.
+III. APPLICATION OF DESIGN CONTROLS
+Design controls may be applied to any product development process. The simple example
+shown in Figure 1 illustrates the influence of design controls on a design process.
+
+
+The development process depicted in the example is a traditional waterfall model. The
+design proceeds in a logical sequence of phases or stages. Basically, requirements are
+developed, and a device is designed to meet those requirements. The design is then
+evaluated, transferred to production, and the device is manufactured. In practice,
+feedback paths would be required between each phase of the process and previous phases,
+representing the iterative nature of product development. However, this detail has been
+omitted from the figure to make the influence of the design controls on the design process
+more distinct.
+
+The importance of the design input and verification of design outputs is illustrated by this
+example. When the design input has been reviewed and the design input requirements are
+determined to be acceptable, an iterative process of translating those requirements into a
+device design begins. The first step is conversion of the requirements into system or high
+level specifications. Thus, these specifications are a design output. Upon verification that
+the high-level specifications conform to the design input requirements, they become the
+design input for the next step in the design process, and so on.
+This basic technique is used repeatedly throughout the design process. Each design input
+is converted into a new design output; each output is verified as conforming to its input;
+and it then becomes the design input for another step in the design process. In this
+manner, the design input requirements are translated into a device design conforming to
+those requirements.
+The importance of design reviews is also illustrated by the example. The design reviews
+are conducted at strategic points in the design process. For example, a review is
+conducted to assure that the design input requirements are adequate before they are
+converted into the design specifications. Another is used to assure that the device design
+is adequate before prototypes are produced for simulated use testing and clinical
+evaluation. Another, a validation review, is conducted prior to transfer of the design to
+production. Generally, they are used to provide assurance that an activity or phase has
+been completed in an acceptable manner, and that the next activity or phase can begin.
+As the figure illustrates, design validation encompasses verification and extends the
+assessment to address whether devices produced in accordance with the design actually
+satisfy user needs and intended uses.
+An analogy to automobile design and development may help to clarify these concepts.
+Fuel efficiency is a common design requirement. This requirement might be expressed as
+the number of miles-per-gallon of a particular grade of gasoline for a specified set of
+driving conditions. As the design of the car proceeds, the requirements, including the one
+for fuel efficiency, are converted into the many layers of system and subsystem
+specifications needed for design. As these various systems and subsystems are designed,
+design verification methods are used to establish conformance of each design to its own
+specifications. Because several specifications directly affect fuel efficiency, many of the
+verification activities help to provide confirmation that the overall design will meet the fuel
+efficiency requirement. This might include simulated road testing of prototypes or actual
+road testing. This is establishing by objective evidence that the design output conforms to
+the fuel efficiency requirement. However, these verification activities alone are not
+sufficient to validate the design. The design may be validated when a representative
+sample of users have driven production vehicles under a specified range of driving
+conditions and judged the fuel efficiency to be adequate. This is providing objective
+evidence that the particular requirement for a specific intended use can be consistently
+fulfilled.
+
+CONCURRENT ENGINEERING. Although the waterfall model is a useful tool for
+introducing design controls, its usefulness in practice is limited. The model does apply to
+the development of some simpler devices. However, for more complex devices, a
+concurrent engineering model is more representative of the design processes in use in the
+industry.
+In a traditional waterfall development scenario, the engineering department completes the
+product design and formally transfers the design to production. Subsequently, other
+departments or organizations develop processes to manufacture and service the product.
+Historically, there has frequently been a divergence between the intent of the designer and
+the reality of the factory floor, resulting in such undesirable outcomes as low
+manufacturing yields, rework or redesign of the product, or unexpectedly high cost to
+service the product.
+One benefit of concurrent engineering is the involvement of production and service
+personnel throughout the design process, assuring the mutual optimization of the
+characteristics of a device and its related processes. While the primary motivations of
+concurrent engineering are shorter development time and reduced production cost, the
+practical result is often improved product quality.
+Concurrent engineering encompasses a range of practices and techniques. From a design
+control standpoint, it is sufficient to note that concurrent engineering may blur the line
+between development and production. On the one hand, the concurrent engineering
+model properly emphasizes that the development of production processes is a design
+rather than a manufacturing activity. On the other hand, various components of a design
+may enter production before the design as a whole has been approved. Thus, concurrent
+engineering and other more complex models of development usually require a
+comprehensive matrix of reviews and approvals to ensure that each component and
+process design is validated prior to entering production, and the product as a whole is
+validated prior to design release.
+RISK MANAGEMENT AND DESIGN CONTROLS. Risk management is the
+systematic application of management policies, procedures, and practices to the tasks of
+identifying, analyzing, controlling, and monitoring risk. It is intended to be a framework
+within which experience, insight, and judgment are applied to successfully manage risk. It
+is included in this guidance because of its effect on the design process.
+Risk management begins with the development of the design input requirements. As the
+design evolves, new risks may become evident. To systematically identify and, when
+necessary, reduce these risks, the risk management process is integrated into the design
+process. In this way, unacceptable risks can be identified and managed earlier in the
+design process when changes are easier to make and less costly.
+An example of this is an exposure control system for a general purpose x-ray system. The
+control function was allocated to software. Late in the development process, risk analysis
+of the system uncovered several failure modes that could result in overexposure to thepatient. Because the problem was not identified until the design was near completion, an
+expensive, independent, back-up timer had to be added to monitor exposure times.
+THE QUALITY SYSTEM AND DESIGN CONTROLS. In addition to procedures
+and work instructions necessary for the implementation of design controls, policies and
+procedures may also be needed for other determinants of device quality that should be
+considered during the design process. The need for policies and procedures for these
+factors is dependent upon the types of devices manufactured by a company and the risks
+associated with their use. Management with executive responsibility has the responsibility
+for determining what is needed.
+Example of topics for which policies and procedures may be appropriate are:
+risk management
+device reliability
+device durability
+device maintainability
+device serviceability
+human factors engineering
+software engineering
+use of standards
+configuration management
+compliance with regulatory requirements
+device evaluation (which may include third party product certification or approval)
+clinical evaluations
+document controls
+use of consultants
+use of subcontractors
+use of company historical data
+
+SECTION A. GENERAL
+I. REQUIREMENTS
+§ 820.30(a) General.
+(1)
+Each manufacturer of any class III or class II device, and the class I devices listed
+in paragraph (a) (2) of this section, shall establish and maintain procedures to
+control the design of the device in order to ensure that specified design
+requirements are met.
+(2)
+The following class I devices are subject to design controls:
+(i)
+Devices automated with computer software; and
+(ii)
+The devices listed in the chart below.
+Section
+Device
+868.6810
+Catheter, Tracheobronchial Suction
+878.4460
+Glove, Surgeon’s
+880.6760
+Restraint, Protective
+892.5650
+System, Applicator, Radionuclide,
+Manual
+892.5740
+Source, Radionuclide Teletherapy
+
+II. DEFINITIONS
+§ 820.3 (n) Management with executive responsibility means those senior employees of a
+manufacturer who have the authority to establish or make changes to the manufacturer’s
+quality policy and quality system.
+§ 820.3 (s) Quality means the totality of features and characteristics that bear on the
+ability of a device to satisfy fitness-for-use, including safety and performance.
+§ 820.3 (v) Quality system means the organizational structure, responsibilities,
+procedures, processes, and resources for implementing quality management.
+Cross reference to ISO 9001:1994 and ISO/DIS 13485 Section 4.4.1 General.
+
+III. DISCUSSION AND POINTS TO CONSIDER
+The essential quality aspects and the regulatory requirements, such as safety, performance,
+and dependability of a product (whether hardware, software, services, or processed
+materials) are established during the design and development phase. Deficient design can
+be a major cause of quality problems.
+The context within which product design is to be carried out should be set by the
+manufacturer’s senior management. It is their responsibility to establish a design and
+development plan which sets the targets to be met. This plan defines the constraints
+within which the design is to be implemented.
+The quality system requirements do not dictate the types of design process that a
+manufacturer must use. Manufacturers should use processes best suited to their needs.
+However, whatever the processes may be, it is important that the design controls are
+applied in an appropriate manner. This guidance document contains examples of how this
+might be achieved in a variety of situations.
+It is important to note that the design function may apply to various facets of the operation
+having differing styles and time scales. Such facets are related to products, including
+services and software, as well as to their manufacturing processes.
+Senior management needs to decide how the design function is to be managed and by
+whom. Senior management should also ensure that internal policies are established for
+design issues such as:
+assessing new product ideas
+training and retraining of design managers and design staff
+use of consultants
+evaluation of the design process
+product evaluation, including third party product certification and approvals
+patenting or other means of design protection
+It is for senior management to ensure that adequate resources are available to carry out
+the design in the required time. This may involve reinforcing the skills and equipment
+available internally and/or obtaining external resources.
+
+SECTION B. DESIGN AND DEVELOPMENT PLANNING
+I. REQUIREMENTS
+§ 820.30(b) Design and development planning.
+Each manufacturer shall establish and maintain plans that describe or reference the
+design and development activities and define responsibility for implementation.
+The plans shall identify and describe the interfaces with different groups or
+activities that provide, or result in, input to the design and development process.
+The plans shall be reviewed, updated, and approved as design and development
+evolves.
+Cross-reference to ISO 9001:1994 and ISO/DIS 13485 sections 4.4.2 Design and
+development planning and 4.4.3 Organizational and technical interfaces.
+II. DISCUSSION AND POINTS TO CONSIDER
+Design and development planning is needed to ensure that the design process is
+appropriately controlled and that device quality objectives are met. The plans must be
+consistent with the remainder of the design control requirements. The following elements
+would typically be addressed in the design and development plan or plans:
+Description of the goals and objectives of the design and development program;
+i.e., what is to be developed;
+Delineation of organizational responsibilities with respect to assuring quality
+during the design and development phase, to include interface with any
+contractors;
+
+
+Identification of the major tasks to be undertaken, deliverables for each task, and
+individual or organizational responsibilities (staff and resources) for completing
+each task;
+Scheduling of major tasks to meet overall program time constraints;
+Identification of major reviews and decision points;
+Selection of reviewers, the composition of review teams, and procedures to be
+followed by reviewers.
+Controls for design documentation;
+Notification activities.
+Planning enables management to exercise greater control over the design and development
+process by clearly communicating policies, procedures, and goals to members of thedesign and development team, and providing a basis for measuring conformance to quality
+system objectives.
+Design activities should be specified at the level of detail necessary for carrying out the
+design process. The extent of design and development planning is dependent on the size
+of the developing organization and the size and complexity of the product to be
+developed. Some manufacturers may have documented policies and procedures which
+apply to all design and development activities. For each specific development program,
+such manufacturers may also prepare a plan which spells out the project-dependent
+elements in detail, and incorporates the general policies and procedures by reference.
+Other manufacturers may develop a comprehensive design and development plan which is
+specifically tailored to each individual project.
+In summary, the form and organization of the planning documents are less important than
+their content. The following paragraphs discuss the key elements of design and
+development planning.
+ORGANIZATIONAL RESPONSIBILITIES. The management responsibility section of
+the quality system requirements1 requires management to establish a quality policy and
+implement an organizational structure to ensure quality. These are typically documented in
+a quality manual or similarly named document. In some cases, however, the design and
+development plan, rather than the quality manual, is the best vehicle for describing
+organizational responsibilities relative to design and development activities. The
+importance of defining responsibilities with clarity and without ambiguity should be
+recognized. When input to the design is from a variety of sources, their interrelationships
+and interfaces (as well as the pertinent responsibilities and authorities) should be defined,
+documented, coordinated, and controlled. This might be the case, for example, if a
+multidisciplinary product development team is assembled for a specific project, or if the
+team includes suppliers, contract manufacturers, users, outside consultants, or independent
+auditors.
+TASK BREAKDOWN. The plan establishes, to the extent possible:
+
+
+1
+The major tasks required to develop the product
+The time involved for each major task
+The resources and personnel required
+The allocation of responsibilities for completing each major task
+The prerequisite information necessary to start each major task and the
+interrelationship between tasks
+The form of each task output or deliverable
+Constraints, such as applicable codes, standards, and regulations
+
+Tasks for all significant design activities, including verification and validation tasks, should
+be included in the design and development plan. For example, if clinical trials are
+anticipated, there may be tasks associated with appropriate regulatory requirements.
+For complex projects, rough estimates may be provided initially, with the details left for
+the responsible organizations to develop. As development proceeds, the plan should
+evolve to incorporate more and better information.
+The relationships between tasks should be presented in such a way that they are easily
+understood. It should be clear which tasks depend on others, and which tasks need to be
+performed concurrently. Planning should reflect the degree of perceived development risk;
+for example, tasks involving new technology or processes should be spelled out in greater
+detail, and perhaps be subjected to more reviews and checks, than tasks which are
+perceived as routine or straightforward.
+The design and development plan may include a schedule showing starting and completion
+dates for each major task, project milestone, or key decision points. The method chosen
+and the detail will vary depending on the complexity of the project and the level of risk
+associated with the device. For small projects, the plan may consist of only a simple flow
+diagram or computer spreadsheet. For larger projects, there are a number of project
+management tools that are used to develop plans. Three of the most commonly used are
+the Program Evaluation and Review Technique (PERT), the Critical Path Method (CPM),
+and the Gantt chart. Software is available in many forms for these methods. When
+selecting these tools, be careful to choose one that best fits the needs of the project. Some
+of the software programs are far more complex than may be necessary.
+Unless a manufacturer has experience with the same type of device, the plan will initially
+be limited in scope and detail. As work proceeds, the plan is refined. Lack of experience in
+planning often leads to optimistic schedules, but slippage may also occur for reasons
+beyond the control of planners, for example, personnel turnover, materiel shortage, or
+unexpected problems with a design element or process. Sometimes the schedule can be
+compressed by using additional resources, such as diverting staff or equipment from
+another project, hiring a contractor, or leasing equipment.
+It is important that the schedule be updated to reflect current knowledge. At all times, the
+plan should be specified at a level of detail enabling management to make informed
+decisions, and provide confidence in meeting overall schedule and performance objectives.
+This is important because scheduling pressures have historically been a contributing factor
+in many design defects which caused injury. To the extent that good planning can prevent
+schedule pressures, the potential for design errors is reduced.
+However, no amount of planning can eliminate all development risk. There is inherent
+conflict between the desire to maximize performance and the need to meet business
+objectives, including development deadlines. In some corporate cultures, impending
+deadlines create enormous pressure to cut corners. Planning helps to combat this dilemma
+by ensuring management awareness of pressure points. With awareness, decisions aremore likely to be made with appropriate oversight and consideration of all relevant factors.
+Thus, when concessions to the clock must be made, they can be justified and supported.
+
+
+Section B Design and Development PlanningSECTION C. DESIGN INPUT
+I. REQUIREMENTS
+§ 820.30(c) Design input.
+Each manufacturer shall establish and maintain procedures to ensure that the
+design requirements relating to a device are appropriate and address the intended
+use of the device, including the needs of the user and patient.
+The procedures shall include a mechanism for addressing incomplete, ambiguous,
+or conflicting requirements.
+The design input requirements shall be documented and shall be reviewed and
+approved by designated individual(s).
+The approval, including the date and signature of the individual(s) approving the
+requirements, shall be documented.
+
+
+Cross reference to ISO 9001:1994 and ISO/DIS 13485 section 4.4.4 Design input.
+II. DEFINITIONS
+§ 820.3(f) Design input means the physical and performance requirements of a device
+that are used as a basis for device design.
+III. DISCUSSION AND POINTS TO CONSIDER
+Design input is the starting point for product design. The requirements which form the
+design input establish a basis for performing subsequent design tasks and validating the
+design. Therefore, development of a solid foundation of requirements is the single most
+important design control activity.
+Many medical device manufacturers have experience with the adverse effects that
+incomplete requirements can have on the design process. A frequent complaint of
+developers is that “there’s never time to do it right, but there’s always time to do it over.”
+If essential requirements are not identified until validation, expensive redesign and rework
+may be necessary before a design can be released to production.
+By comparison, the experience of companies that have designed devices using clear-cut,
+comprehensive sets of requirements is that rework and redesign are significantly reduced
+and product quality is improved. They know that the development of requirements for a
+medical device of even moderate complexity is a formidable, time-consuming task. They
+accept the investment in time and resources required to develop the requirements because
+they know the advantages to be gained in the long run.
+
+
+Section C. Design InputUnfortunately, there are a number of common misconceptions regarding the meaning and
+practical application of the quality system requirements for design input. Many seem to
+arise from interpreting the requirements as a literal prescription, rather than a set of
+principles to be followed. In this guidance document, the focus is on explaining the
+principles and providing examples of how they may be applied in typical situations.
+CONCEPT DOCUMENTS VERSUS DESIGN INPUT In some cases, the marketing
+staff, who maintain close contact with customers and users, determine a need for a new
+product, or enhancements to an existing product. Alternatively, the idea for a new
+product may evolve out of a research or clinical activity. In any case, the result is a
+concept document specifying some of the desired characteristics of the new product.
+Some members of the medical device community view these marketing memoranda, or the
+equivalent, as the design input. However, that is not the intent of the quality system
+requirements. Such concept documents are rarely comprehensive, and should not be
+expected to be so. Rather, the intent of the quality system requirements is that the product
+conceptual description be elaborated, expanded, and transformed into a complete set of
+design input requirements which are written to an engineering level of detail.
+This is an important concept. The use of qualitative terms in a concept document is both
+appropriate and practical. This is often not the case for a document to be used as a basis
+for design. Even the simplest of terms can have enormous design implications. For
+example, the term “must be portable” in a concept document raises questions in the minds
+of product developers about issues such as size and weight limitations, resistance to shock
+and vibration, the need for protection from moisture and corrosion, the capability of
+operating over a wide temperature range, and many others. Thus, a concept document
+may be the starting point for development, but it is not the design input requirement. This
+is a key principle—the design input requirements are the result of the first stage of the
+design control process.
+RESEARCH AND DEVELOPMENT. Some manufacturers have difficulty in
+determining where research ends and development begins. Research activities may be
+undertaken in an effort to determine new business opportunities or basic characteristics for
+a new product. It may be reasonable to develop a rapid prototype to explore the
+feasibility of an idea or design approach, for example, prior to developing design input
+requirements. But manufacturers should avoid falling into the trap of equating the
+prototype design with a finished product design. Prototypes at this stage lack safety
+features and ancillary functions necessary for a finished product, and are developed under
+conditions which preclude adequate consideration of product variability due to
+manufacturing.
+RESPONSIBILITY FOR DESIGN INPUT DEVELOPMENT. Regardless of who
+developed the initial product concept, product developers play a key role in developing the
+design input requirements. When presented with a set of important characteristics, it is the
+product developers who understand the auxiliary issues that must be addressed, as well as
+the level of detail necessary to design a product. Therefore, a second key principle is thatthe product developer(s) ultimately bear responsibility for translating user and/or patient
+needs into a set of requirements which can be validated prior to implementation. While
+this is primarily an engineering function, the support or full participation of production and
+service personnel, key suppliers, etc., may be required to assure that the design input
+requirements are complete.
+Care must be exercised in applying this principle. Effective development of design input
+requirements encompasses input from both the product developer as well as those
+representing the needs of the user, such as marketing. Terminology can be a problem. In
+some cases, the product conceptual description may be expressed in medical terms.
+Medical terminology is appropriate in requirements when the developers and reviewers are
+familiar with the language, but it is often preferable to translate the concepts into
+engineering terms at the requirements stage to minimize miscommunication with the
+development staff.
+Another problem is incorrect assumptions. Product developers make incorrect
+assumptions about user needs, and marketing personnel make incorrect assumptions about
+the needs of the product designers. Incorrect assumptions can have serious consequences
+that may not be detected until late in the development process. Therefore, both product
+developers and those representing the user must take responsibility for critically examining
+proposed requirements, exploring stated and implied assumptions, and uncovering
+problems.
+Some examples should clarify this point. A basic principle is that design input
+requirements should specify what the design is intended to do while carefully avoiding
+specific design solutions at this stage. For example, a concept document might dictate
+that the product be housed in a machined aluminum case. It would be prudent for product
+developers to explore why this type of housing was specified. Perhaps there is a valid
+reason—superior electrical shielding, mechanical strength, or reduced time to market as
+compared to a cast housing. Or perhaps machined aluminum was specified because a
+competitor’s product is made that way, or simply because the user didn’t think plastic
+would be strong enough.
+Not all incorrect assumptions are made by users. Incorrect assumptions made by product
+developers may be equally damaging. Failure to understand the abuse to which a portable
+instrument would be subjected might result in the selection of housing materials
+inadequate for the intended use of the product.
+There are occasions when it may be appropriate to specify part of the design solution in
+the design input requirements. For example, a manufacturer may want to share
+components or manufacturing processes across a family of products in order to realize
+economies of scale, or simply to help establish a corporate identity. In the case of a
+product upgrade, there may be clear consensus regarding the features to be retained.
+However, it is important to realize that every such design constraint reduces
+implementation flexibility and should therefore be documented and identified as a possible
+conflicting requirement for subsequent resolution.
+
+
+Section C. Design InputSCOPE AND LEVEL OF DETAIL. Design input requirements must be
+comprehensive. This may be quite difficult for manufacturers who are implementing a
+system of design controls for the first time. Fortunately, the process gets easier with
+practice. It may be helpful to realize that design input requirements fall into three
+categories. Virtually every product will have requirements of all three types.
+Functional requirements specify what the device does, focusing on the operational
+capabilities of the device and processing of inputs and the resultant outputs.
+Performance requirements specify how much or how well the device must
+perform, addressing issues such as speed, strength, response times, accuracy, limits
+of operation, etc. This includes a quantitative characterization of the use
+environment, including, for example, temperature, humidity, shock, vibration, and
+electromagnetic compatibility. Requirements concerning device reliability and
+safety also fit into this category.
+Interface requirements specify characteristics of the device which are critical to
+compatibility with external systems; specifically, those characteristics which are
+mandated by external systems and outside the control of the developers. One
+interface which is important in every case is the user and/or patient interface.
+
+
+What is the scope of the design input requirements development process and how much
+detail must be provided? The scope is dependent upon the complexity of a device and the
+risk associated with its use. For most medical devices, numerous requirements
+encompassing functions, performance, safety, and regulatory concerns are implied by the
+application. These implied requirements should be explicitly stated, in engineering terms,
+in the design input requirements.
+Determining the appropriate level of detail requires experience. However, some general
+guidance is possible. The marketing literature contains product specifications, but these
+are superficial. The operator and service manuals may contain more detailed
+specifications and performance limits, but these also fall short of being comprehensive.
+Some insight as to what is necessary is provided by examining the requirements for a very
+common external interface. For the power requirements for AC-powered equipment, it is
+not sufficient to simply say that a unit shall be AC-powered. It is better to say that the
+unit shall be operable from AC power in North America, Europe, and Japan, but that is
+still insufficient detail to implement or validate the design. If one considers the situation
+just in North America, where the line voltage is typically 120 volts, many systems are
+specified to operate over the range of 108 to 132 volts. However, to account for the
+possibility of brownout, critical devices may be specified to operate from 95 to 132 volts
+or even wider ranges. Based on the intended use of the device, the manufacturer must
+choose appropriate performance limits.
+There are many cases when it is impractical to establish every functional and performance
+characteristic at the design input stage. But in most cases, the form of the requirement can
+be determined, and the requirement can be stated with a to-be-determined (TBD)
+numerical value or a range of possible values. This makes it possible for reviewers to
+
+
+Section C. Design Inputassess whether the requirements completely characterize the intended use of the device,
+judge the impact of omissions, and track incomplete requirements to ensure resolution.
+For complex designs, it is not uncommon for the design input stage to consume as much
+as thirty percent of the total project time. Unfortunately, some managers and developers
+have been trained to measure design progress in terms of hardware built, or lines of
+software code written. They fail to realize that building a solid foundation saves time
+during the implementation. Part of the solution is to structure the requirements
+documents and reviews such that tangible measures of progress are provided.
+At the other extreme, many medical devices have very simple requirements. For example,
+many new devices are simply replacement parts for a product, or are kits of commodity
+items. Typically, only the packaging and labeling distinguishes these products from
+existing products. In such cases, there is no need to recreate the detailed design input
+requirements of the item. It is acceptable to simply cite the predecessor product
+documentation, add any new product information, and establish the unique packaging and
+labeling requirements.
+ASSESSING DESIGN INPUT REQUIREMENTS FOR ADEQUACY. Eventually,
+the design input must be reviewed for adequacy. After review and approval, the design
+input becomes a controlled document. All future changes will be subject to the change
+control procedures, as discussed in Section I (Design Changes).
+Any assessment of design input requirements boils down to a matter of judgment. As
+discussed in Section E (Design Review), it is important for the review team to be
+multidisciplinary and to have the appropriate authority. A number of criteria may be
+employed by the review team.
+
+
+Design input requirements should be unambiguous. That is, each requirement
+should be able to be verified by an objective method of analysis, inspection, or
+testing. For example, it is insufficient to state that a catheter must be able to
+withstand repeated flexing. A better requirement would state that the catheter
+should be formed into a 50 mm diameter coil and straightened out for a total of
+fifty times with no evidence of cracking or deformity. A qualified reviewer could
+then make a judgment whether this specified test method is representative of the
+conditions of use.
+Quantitative limits should be expressed with a measurement tolerance. For
+example, a diameter of 3.5 mm is an incomplete specification. If the diameter is
+specified as 3.500±0.005 mm, designers have a basis for determining how accurate
+the manufacturing processes have to be to produce compliant parts, and reviewers
+have a basis for determining whether the parts will be suitable for the intended use.
+The set of design input requirements for a product should be self-consistent. It is
+not unusual for requirements to conflict with one another or with a referenced
+industry standard due to a simple oversight. Such conflicts should be resolved
+early in the development process.
+
+
+Section C. Design Input
+
+The environment in which the product is intended to be used should be properly
+characterized. For example, manufacturers frequently make the mistake of
+specifying “laboratory” conditions for devices which are intended for use in the
+home. Yet, even within a single country, relative humidity in a home may range
+from 20 percent to 100 percent (condensing) due to climactic and seasonal
+variations. Household temperatures in many climates routinely exceed 40 °C
+during the hot season. Altitudes may exceed 3,000 m, and the resultant low
+atmospheric pressure may adversely affect some kinds of medical equipment. If
+environmental conditions are fully specified, a qualified reviewer can make a
+determination of whether the specified conditions are representative of the
+intended use.
+When industry standards are cited, the citations should be reviewed for
+completeness and relevance. For example, one medical device manufacturer
+claimed compliance with an industry standard covering mechanical shock and
+vibration. However, when the referenced standard was examined by a reviewer, it
+was found to prescribe only the method of testing, omitting any mention of
+pass/fail criteria. It was incumbent on the manufacturer in this case to specify
+appropriate performance limits for the device being tested, as well as the test
+method.
+
+
+EVOLUTION OF THE DESIGN INPUT REQUIREMENTS. Large development
+projects often are implemented in stages. When this occurs, the design input requirements
+at each stage should be developed and reviewed following the principles set forth in this
+section. Fortunately, the initial set of requirements, covering the overall product, is by far
+the most difficult to develop. As the design proceeds, the output from the early stages
+forms the basis for the subsequent stages, and the information available to designers is
+inherently more extensive and detailed.
+It is almost inevitable that verification activities will uncover discrepancies which result in
+changes to the design input requirements. There are two points to be made about this.
+One is that the change control process for design input requirements must be carefully
+managed. Often, a design change to correct one problem may create a new problem
+which must be addressed. Throughout the development process, it is important that any
+changes are documented and communicated to developers so that the total impact of the
+change can be determined. The change control process is crucial to device quality.
+The second point is that extensive rework of the design input requirements suggests that
+the design input requirements may not be elaborated to a suitable level of detail, or
+insufficient resources are being devoted to defining and reviewing the requirements.
+Managers can use this insight to improve the design control process. From a design
+control perspective, the number of requirements changes made is less important than the
+thoroughness of the change control process.
+
+
+Section C. Design Input
+Each manufacturer shall establish and maintain procedures for defining and
+documenting design output in terms that allow an adequate evaluation of
+conformance to design input requirements.
+Design output procedures shall contain or make reference to acceptance criteria
+and shall ensure that those design outputs that are essential for the proper
+functioning of the device are identified.
+Design output shall be documented, reviewed, and approved before release.
+The approval, including the date and signature of the individual(s) approving the
+output, shall be documented.
+
+
+Cross-reference to ISO 9001:1994 and ISO/DIS 13485 section 4.4.5 Design output.
+II. DEFINITIONS
+§ 820.3(g) Design output means the results of a design effort at each design phase and at
+the end of the total design effort. The finished design output is the basis for the device
+master record. The total finished design output consists of the device, its packaging and
+labeling, and the device master record.
+§ 820.3(y) Specification means any requirement with which a product, process, service,
+or other activity must conform.
+III. DISCUSSION AND POINTS TO CONSIDER
+The quality system requirements for design output can be separated into two elements:
+Design output should be expressed in terms that allow adequate assessment of
+conformance to design input requirements and should identify the characteristics of the
+design that are crucial to the safety and proper functioning of the device. This raises two
+fundamental issues for developers:
+What constitutes design output?
+Are the form and content of the design output suitable?
+The first issue is important because the typical development project produces voluminous
+records, some of which may not be categorized as design output. On the other hand,
+design output must be reasonably comprehensive to be effective. As a general rule, an
+item is design output if it is a work product, or deliverable item, of a design task listed in
+
+
+Section D. Design Outputthe design and development plan, and the item defines, describes, or elaborates an element
+of the design implementation. Examples include block diagrams, flow charts, software
+high-level code, and system or subsystem design specifications. The design output in one
+stage is often part of the design input in subsequent stages.
+Design output includes production specifications as well as descriptive materials which
+define and characterize the design.
+PRODUCTION SPECIFICATIONS. Production specifications include drawings and
+documents used to procure components, fabricate, test, inspect, install, maintain, and
+service the device, such as the following:
+assembly drawings
+component and material specifications
+production and process specifications
+software machine code (e.g., diskette or master EPROM)
+work instructions
+quality assurance specifications and procedures
+installation and servicing procedures
+packaging and labeling specifications, including methods and processes used
+
+
+In addition, as discussed in Section H (Design Transfer), production specifications may
+take on other forms. For example, some manufacturers produce assembly instructions on
+videotapes rather than written instructions. Similarly, a program diskette, used by a
+computer-aided milling machine to fabricate a part, would be considered a production
+specification. The videotape and the software on the program diskette are part of the
+device master record.
+OTHER DESCRIPTIVE MATERIALS. Other design output items might be produced
+which are necessary to establish conformance to design input requirements, but are not
+used in its production. For example, for each part which is fabricated by computer-aided
+machine, there should be an assembly drawing which specifies the dimensions and
+characteristics of the part. It is a part of the design output because it establishes the basis
+for the machine tool program used to fabricate the part. Other examples of design output
+include the following:
+the results of risk analysis
+software source code
+results of verification activities
+biocompatibility test results
+bioburden test results
+FORM AND CONTENT. Manufacturers must take steps to assure that the design
+output characterizes all important aspects of the design and is expressed in terms which
+
+
+Section D. Design Outputallow adequate verification and validation. Two basic mechanisms are available to
+manufacturers to accomplish these objectives.
+First, the manufacturer proactively can specify the form and content of design
+output at the planning stage. For some types of design output, form and content
+may be codified in a consensus standard which can be referenced. In other cases, a
+manufacturer could specify the desired characteristics, or even simply specify that
+the form and content of an existing document be followed.
+Second, form and content can be reviewed retroactively as a part of the design
+verification process. For example, the verification of design output could include
+assessing whether specified documentation standards have been adhered to.
+As these examples illustrate, conformance with the quality system requirements
+concerning design output generally requires no “extra” effort on the part of the
+manufacturer, but simply the application of some common sense procedures during the
+planning, execution, and review of design tasks.
+
+SECTION E. DESIGN REVIEW
+I. REQUIREMENTS
+§ 820.30(e) Design review.
+Each manufacturer shall establish and maintain procedures to ensure that formal
+documented reviews of the design results are planned and conducted at
+appropriate stages of the device’s design development.
+The procedures shall ensure that participants at each design review include
+representatives of all functions concerned with the design stage being reviewed and
+an individual(s) who does not have direct responsibility for the design stage being
+reviewed, as well as any specialists needed.
+The results of a design review, including identification of the design, the date, and
+the individual(s) performing the review, shall be documented in the design history
+file (the DHF).
+Cross-reference to ISO 9001:1994 and ISO/DIS 13485 section 4.4.6 Design review.
+
+
+II. DEFINITIONS
+§ 820.3(h) Design review means a documented, comprehensive, systematic examination of
+a design to evaluate the adequacy of the design requirements, to evaluate the capability of
+the design to meet these requirements, and to identify problems.
+III. DISCUSSION AND POINTS TO CONSIDER
+In general, formal design reviews are intended to:
+provide a systematic assessment of design results, including the device design and
+the associated designs for production and support processes;
+provide feedback to designers on existing or emerging problems;
+assess project progress; and/or
+provide confirmation that the project is ready to move on to the next stage of
+development.
+Many types of reviews occur during the course of developing a product. Reviews may
+have both an internal and external focus. The internal focus is on the feasibility of the
+design and the produceability of the design with respect to manufacturing and support
+
+
+Section E. Design Reviewcapabilities. The external focus is on the user requirements; that is, the device design is
+viewed from the perspective of the user.
+The nature of reviews changes as the design progresses. During the initial stages, issues
+related to design input requirements will predominate. Next, the main function of the
+reviews may be to evaluate or confirm the choice of solutions being offered by the design
+team. Then, issues such as the choice of materials and the methods of manufacture become
+more important. During the final stages, issues related to the verification, validation, and
+production may predominate.
+The term “review” is commonly used by manufacturers to describe a variety of design
+assessment activities. Most, but not all, of these activities meet the definition of formal
+design reviews. The following exceptions may help to clarify the distinguishing
+characteristics of design reviews.
+
+
+Each design document which constitutes the formal output, or deliverable, of a
+design task is normally subject to evaluation activities, sometimes referred to as
+informal peer review, supervisory review, or technical assessment. These activities,
+while they may be called reviews, are often better described as verification
+activities, because they are not intended to be comprehensive, definitive, and
+multidisciplinary in their scope. Rather, their purpose is to confirm that design
+output meets design input. Verification activities affect and add to the design
+output, and are themselves subject to subsequent design review.
+Developers may conduct routine or ad hoc meetings to discuss an issue, coordinate
+activities, or assess development progress. Decisions from such meetings may not
+require formal documentation; however, if a significant issue is resolved, this
+should be documented. If the outcome results in change to an approved design
+document, then applicable change control procedures should be followed, as
+discussed in Section I (Design Changes).
+
+
+Control of the design review process is achieved by developing and implementing a formal
+design review program consistent with quality system requirements. The following issues
+should be addressed and documented in the design and development plan(s).
+NUMBER AND TYPE OF REVIEWS. It is a well-accepted fact that the cost to correct
+design errors increases as the design nears completion, and the flexibility to implement an
+optimal solution decreases. When an error is discovered at the end of the development
+cycle, difficult decisions have to be made regarding an acceptable corrective action. When
+that corrective action is implemented in haste, the result is often an unintended
+consequence leading to a new problem. Thus, formal design reviews should be planned to
+detect problems early. A corollary is that planners should presume that problems will be
+detected, and allocate a reasonable amount of time to implement corrective actions.
+Typically, formal reviews are conducted at the end of each phase and at important
+milestones in the design process.
+
+
+Section E. Design ReviewAs discussed in Section C (Design Input), it is beneficial in almost every case to conduct a
+formal review of the design input requirements early in the development process. The
+number of reviews depends upon the complexity of the device.
+For a simple design, or a minor upgrade to an existing product, it might be
+appropriate to conduct a single review at the conclusion of the design process.
+For a product involving multiple subsystems, an early design task is to allocate the
+design input requirements among the various subsystems. For example, in a
+microprocessor-based system, designers must decide which functions will be
+performed by hardware and which by software. In another case, tolerance buildup
+from several components may combine to create a clearance problem. System
+designers must establish tolerance specifications for each component to meet the
+overall dimensional specification. In cases like these, a formal design review is a
+prudent step to ensure that all such system-level requirements have been allocated
+satisfactorily prior to engaging in detailed design of each subsystem.
+
+
+For complex systems, additional reviews are often built into the development plan.
+For example, engineering sketches may be developed for prototyping purposes
+prior to development of production drawings. Evaluation of the prototype would
+typically culminate in a formal design review. Similarly, software development
+commonly includes a high-level design phase, during which requirements are
+elaborated to a greater level of detail and algorithms are developed to implement
+key functions. A formal design review would typically be conducted to review this
+work prior to beginning detailed coding.
+
+
+There are a number of approaches to conducting formal design reviews at the end of the
+design process. In some organizations, engineering essentially completes the design, tests
+an engineering prototype, and conducts a formal design review prior to turning the design
+over to manufacturing. In such cases, an additional review will be needed after the design
+has been validated using production devices.
+In some instances, components having long lead times may enter production prior to
+completion of the overall device design. The primary motivation for early production is to
+reduce time to market. The manufacturer runs the business risk that the design review at
+the end of the design process will uncover a defect that must be corrected in production
+devices before any devices are distributed.
+All of these approaches to scheduling formal design reviews are valid. What is important is
+that the manufacturer establish a reasonable rationale for the number and type of reviews,
+based on sound judgment.
+SELECTION OF REVIEWERS. In determining who should participate in a formal
+design review, planners should consider the qualifications of reviewers, the types of
+expertise required to make an adequate assessment, and the independence of the
+reviewers. Each of these concerns is discussed briefly in the following paragraphs.
+
+
+Section E. Design Review
+Qualifications. Formal design reviews should be conducted by person(s) having technical
+competence and experience at least comparable to the developers. For a small
+manufacturer, this may require that an outside consultant be retained to participate in the
+evaluation of the design.
+A manufacturer will often employ one or more specialists to conduct certain types of
+specialized assessments which are beyond the capabilities of the designers. For example, a
+mechanical engineer may be retained to perform a structural analysis of a design, and
+perhaps conduct vibration testing to verify its performance under stress. Such specialists
+may be assigned to participate in the formal design review. Alternatively, they may be
+assigned to make an independent assessment and submit observations and
+recommendations to the reviewers. Either approach is valid.
+Types of expertise required. Many medical device designs involve a number of
+technologies, such as electronics, mechanics, software, materials science, or pneumatics.
+In addition, a variety of clinical and manufacturing issues may influence the design.
+Manufacturers should carefully consider which interests should be represented at formal
+design reviews. Subtle distinctions in reviewer perspective may have dramatic impact on
+device quality. For example, the marketing department of a small manufacturer shared a
+new design with several surgeons on their advisory board. The surgeons all thought the
+design was terrific. Subsequently, the manufacturer invited two experienced operating
+room nurses to participate in the final design review. During the course of the review, it
+became apparent that while surgeons may be the customers, nurses are the primary users
+of the device, and no one up to that point had consulted with any nurses. The nurses at the
+design review didn’t like some of the features of the design. After some further market
+survey, the manufacturer decided to make changes to the design to accommodate these
+concerns. It was unfortunate (and expensive) in this case that the user requirements were
+not considered until late in the development cycle, but the design review was ultimately
+very successful.
+Independence. The formal design review should include at least one individual who does
+not have direct responsibility for the design stage under review. In a small company,
+complete independence is very difficult to obtain. Within the context of formal design
+reviews, the practical solution is simply to ensure a fresh perspective, based on the
+principle that those who are too close to the design may overlook design errors. Thus,
+reviewers will often be from the same organization as the developers, but they should not
+have been significantly involved in the activities under review. As discussed in the
+following section, the formal design review procedures play a large role in assuring
+independent and objective reviews.
+DESIGN REVIEW PROCEDURES. The manufacturer should have documented formal
+design review procedures addressing the following:
+
+
+Evaluation of the design (including identification of concerns, i.e., issues and
+potential problems with the design)
+Resolution of concerns
+
+
+Section E. Design Review
+Implementation of corrective actions
+Evaluation of the design. Many formal design reviews take the form of a meeting. At this
+meeting, the designer(s) may make presentations to explain the design implementation,
+and persons responsible for verification activities may present their findings to the
+reviewers. Reviewers may ask for clarification or additional information on any topic, and
+add their concerns to any raised by the presenters. This portion of the review is focused on
+finding problems, not resolving them.
+There are many approaches to conducting design review meetings. In simple cases, the
+technical assessor and reviewer may be the same person, often a project manager or
+engineering supervisor, and the review meeting is a simple affair in the manager’s office.
+For more elaborate reviews, detailed written procedures are desirable to ensure that all
+pertinent topics are discussed, conclusions accurately recorded, and action items
+documented and tracked.
+There is a dangerous tendency for design review meetings to become adversarial affairs.
+The reputation of the designers tends to be linked to the number of discrepancies found,
+causing the designers to become defensive, while the reviewers score points by finding
+weaknesses in the design. The resulting contest can be counterproductive. An added
+complication is the presence of invited guests, often clinicians, who are expected to
+provide the user perspective. These reviewers are often very reluctant to ask probing
+questions, especially if they sense that they may become involved in a conflict where all
+the rules and relationships are not evident.
+These difficulties can be avoided by stating the goals and ground rules for conducting the
+formal design review clearly at the outset. While the designers are in the best position to
+explain the best features of the design, they are also most likely to be aware of the design’s
+weaknesses. If the designers and reviewers are encouraged to work together to
+systematically explore problems and find solutions, the resultant design will be improved
+and all parties will benefit from the process. Participants must be encouraged to ask
+questions, avoid making assumptions, and think critically. The focus must be on the
+design, not the participants.
+Not all formal design reviews involve meetings. For extremely simple designs or design
+changes, it may be appropriate to specify a procedure in which review materials are
+distributed or circulated among the reviewers for independent assessment and approval.
+However, such a procedure negates the benefits of synergy and teamwork, and should be
+considered only in cases where the design issues are limited in scope and well defined.
+Resolution of concerns. The reviewers consider concerns raised during the evaluation
+portion of the formal design review and decide on an appropriate disposition for each one.
+There is wide variation in the way companies implement decision-making processes. In
+some cases, the reviewers play an advisory role to the engineering manager or other
+company official, who directs the formal design review and ultimately selects a course of
+
+
+Section E. Design Reviewaction. In other cases, the reviewers are given limited or broad authority to make decisions
+and commit resources to resolve problems. The approach used should be documented.
+In the real world, reviews often leave unresolved issues. Therefore, review procedures
+should include a process for resolving differences, and provide reviewers with enough
+leeway to make practical decisions while protecting the integrity of the process.
+Implementation of corrective actions. Not all identified concerns result in corrective
+actions. The reviewers may decide that the issue is erroneous or immaterial. In most cases,
+however, resolution involves a design change, a requirements change, or a combination of
+the two. If the solution is evident, the reviewers may specify the appropriate corrective
+action; otherwise, an action item will be assigned to study the problem further. In any
+case, action items and corrective actions are normally tracked under the manufacturer’s
+change control procedures.
+RELATIONSHIP OF DESIGN REVIEW TO VERIFICATION AND
+VALIDATION. In practice, design review, verification, and validation overlap one
+another, and the relationship among them may be confusing. As a general rule, the
+sequence is: verification, review, validation, review.
+In most cases, verification activities are completed prior to the design review, and the
+verification results are submitted to the reviewers along with the other design output to be
+reviewed. Alternatively, some verification activities may be treated as components of the
+design review, particularly if the verification activity is complex and requires
+multidisciplinary review.
+Similarly, validation typically involves a variety of activities, including a determination that
+the appropriate verifications and reviews have been completed. Thus, at the conclusion of
+the validation effort, a review is usually warranted to assure that the validation is complete
+and adequate.
+
+SECTION F. DESIGN VERIFICATION
+I. REQUIREMENTS
+§ 820.30(f) Design verification.
+Each manufacturer shall establish and maintain procedures for verifying the device
+design.
+Design verification shall confirm that the design output meets the design input
+requirements.
+The results of the design verification, including identification of the design,
+method(s), the date, and the individual(s) performing the verification, shall be
+documented in the Design History File.
+
+
+Cross-reference to ISO 9001:1994 and ISO/DIS 13485 section 4.4.7 Design
+verification.
+I. DEFINITIONS
+§820.3(y) Specification means any requirement with which a product, process, service, or
+other activity must conform.
+§ 820.3(z) Validation means confirmation by examination and provision of objective
+evidence that the particular requirements for a specific intended use can be consistently
+fulfilled.
+(1) Process Validation means establishing by objective evidence that a process
+consistently produces a result or product meeting its predetermined specifications.
+(2) Design Validation means establishing by objective evidence that device
+specifications conform with user needs and intended use(s).
+§820.3(aa) Verification means confirmation by examination and provision of objective
+evidence that specified requirements have been fulfilled.
+
+
+III. DISCUSSION AND POINTS TO CONSIDER
+Verification and validation are associated concepts with very important differences.
+Various organizations have different definitions for these terms. Medical devicemanufacturers are encouraged to use the terminology of the quality system requirements in
+their internal procedures.
+To illustrate the concepts, consider a building design analogy. In a typical scenario, the
+senior architect establishes the design input requirements and sketches the general
+appearance and construction of the building, but associates or contractors typically
+elaborate the details of the various mechanical systems. Verification is the process of
+checking at each stage whether the output conforms to requirements for that stage. For
+example: does the air conditioning system deliver the specified cooling capacity to each
+room? Is the roof rated to withstand so many newtons per square meter of wind loading?
+Is a fire alarm located within 50 meters of each location in the building?
+At the same time, the architect has to keep in mind the broader question of whether the
+results are consistent with the ultimate user requirements. Does the air conditioning
+system keep the occupants comfortable throughout the building? Will the roof withstand
+weather extremes expected at the building site? Can the fire alarm be heard throughout the
+building? Those broader concerns are the essence of validation.
+In the initial stages of design, verification is a key quality assurance technique. As the
+design effort progresses, verification activities become progressively more comprehensive.
+For example, heat or cooling delivery can be calculated and verified by the air conditioning
+designer, but the resultant air temperature can only be estimated. Occupant comfort is a
+function not only of delivered air temperature, but also humidity, heat radiation to or from
+nearby thermal masses, heat gain or loss through adjacent windows, etc. During the latter
+design phases, the interaction of these complex factors may be considered during
+verification of the design.
+Validation follows successful verification, and ensures that each requirement for a
+particular use is fulfilled. Validation of user needs is possible only after the building is
+built. The air conditioning and fire alarm performance may be validated by testing and
+inspection, while the strength of the roof will probably be validated by some sort of
+analysis linked to building codes which are accepted as meeting the needs of the user—
+subject to possible confirmation during a subsequent severe storm.
+Validation is the topic of Section G of this guidance document. The remainder of this
+section focuses on verification principles.
+TYPES OF VERIFICATION ACTIVITIES. Verification activities are conducted at all
+stages and levels of device design. The basis of verification is a three-pronged approach
+involving tests, inspections, and analyses. Any approach which establishes conformance
+with a design input requirement is an acceptable means of verifying the design with respect
+to that requirement. In many cases, a variety of approaches are possible.
+Complex designs require more and different types of verification activities. The nature of
+verification activities varies according to the type of design output. The intent of this
+guidance document is not to suggest or recommend verification techniques which shouldbe performed by device manufacturers. Rather, the manufacturer should select and apply
+appropriate verification techniques based on the generally accepted practices for the
+technologies employed in their products. Many of these practices are an integral part of
+the development process, and are routinely performed by developers. The objective of
+design controls is to ensure adequate oversight by making verification activities explicit
+and measuring the thoroughness of their execution. Following are a few examples of
+verification methods and activities.
+
+
+Worst case analysis of an assembly to verify that components are derated properly
+and not subject to overstress during handling and use.
+Thermal analysis of an assembly to assure that internal or surface temperatures do
+not exceed specified limits.
+Fault tree analysis of a process or design.
+Failure modes and effects analysis.
+Package integrity tests.
+Biocompatibility testing of materials.
+Bioburden testing of products to be sterilized.
+Comparison of a design to a previous product having an established history of
+successful use.
+
+
+For some technologies, verification methods may be highly standardized. In other cases,
+the manufacturer may choose from a variety of applicable methods. In a few cases, the
+manufacturer must be creative in devising ways to verify a particular aspect of a design.
+Some manufacturers erroneously equate production testing with verification. Whereas
+verification testing establishes conformance of design output with design input, the aim of
+production testing is to determine whether the unit under test has been correctly
+manufactured. In other words, production testing is designed to efficiently screen out
+manufacturing process errors and perhaps also to detect infant mortality failures.
+Typically, a small subset of functional and performance tests accomplish this objective
+with a high degree of accuracy. Therefore, production testing is rarely, if ever,
+comprehensive enough to verify the design. For example, a leakage test may be used
+during production to ensure that a hermetically-sealed enclosure was properly assembled.
+However, the leakage test may not be sensitive enough to detect long-term diffusion of
+gas through the packaging material. Permeability of the packaging material is an intrinsic
+property of the material rather than an assembly issue, and would likely be verified using a
+more specialized test than is used during production.
+DOCUMENTATION OF VERIFICATION ACTIVITIES. Some verification methods
+result in a document by their nature. For example, a failure modes and effects analysis
+produces a table listing each system component, its postulated failure modes, and the
+effect of such failures on system operation.
+
+
+Section F. Design VerificationAnother self-documenting verification method is the traceability matrix. This method is
+particularly useful when the design input and output are both documents; it also has great
+utility in software development. In the most common form of the traceability matrix, the
+input requirements are enumerated in a table, and references are provided to each section
+in the output documents (or software modules) which address or satisfy each input
+requirement. The matrix can also be constructed “backwards,” listing each feature in the
+design output and tracing which input requirement bears on that feature. This reverse
+approach is especially useful for detecting hidden assumptions. Hidden assumptions are
+dangerous because they often lead to overdesign, adding unnecessary cost and complexity
+to the design. In other cases, hidden assumptions turn out to be undocumented design
+input requirements which, once exposed, can be properly tracked and verified.
+However, many verification activities are simply some sort of structured assessment of the
+design output relative to the design input. When this is the case, manufacturers may
+document completion of verification activities by linking these activities with the signoff
+procedures for documents. This may be accomplished by establishing a procedure
+whereby each design output document must be verified and signed by designated persons.
+The presence of the reviewers’ signatures on the document signifies that the design output
+has been verified in accordance with the signoff procedure.
+
+SECTION G. DESIGN VALIDATION
+I. REQUIREMENTS
+§ 820.30(g) Design validation.
+Each manufacturer shall establish and maintain procedures for validating the device
+design.
+Design validation shall be performed under defined operating conditions on initial
+production units, lots, or batches, or their equivalents.
+Design validation shall ensure that devices conform to defined user needs and
+intended uses and shall include testing of production units under actual or
+simulated use conditions.
+Design validation shall include software validation and risk analysis, where
+appropriate.
+The results of the design validation, including identification of the design,
+method(s), the date, and the individual(s) performing the validation, shall be
+documented in the Design History File.
+
+
+Cross-reference to ISO 9001:1994 and ISO/DIS 13485 section 4.4.8 Design
+validation.
+II. DEFINITIONS
+§820.3(y) Specification means any requirement with which a product, process, service, or
+other activity must conform.
+§ 820.3(z) Validation means confirmation by examination and provision of objective
+evidence that the particular requirements for a specific intended use can be consistently
+fulfilled.
+(1) Process Validation means establishing by objective evidence that a process
+consistently produces a result or product meeting its predetermined specifications.
+(2) Design Validation means establishing by objective evidence that device
+specifications conform with user needs and intended use(s).
+§820.3(aa) Verification means confirmation by examination and provision of objective
+evidence that specified requirements have been fulfilled.
+
+
+Section G. Design ValidationIII. DISCUSSION AND POINTS TO CONSIDER
+Whereas verification is a detailed examination of aspects of a design at various stages in
+the development, design validation is a cumulative summation of all efforts to assure that
+the design will conform with user needs and intended use(s), given expected variations in
+components, materials, manufacturing processes, and the use environment.
+VALIDATION PLANNING. Planning for validation should begin early in the design
+process. The performance characteristics that are to be assessed should be identified, and
+validation methods and acceptance criteria should be established. For complex designs, a
+schedule of validation activities and organizational or individual responsibilities will
+facilitate maintaining control over the process. The validation plan should be reviewed for
+appropriateness, completeness, and to ensure that user needs and intended uses are
+addressed.
+VALIDATION REVIEW. Validation may expose deficiencies in the original
+assumptions concerning user needs and intended uses. A formal review process should be
+used to resolve any such deficiencies. As with verification, the perception of a deficiency
+might be judged insignificant or erroneous, or a corrective action may be required.
+VALIDATION METHODS. Many medical devices do not require clinical trials.
+However, all devices require clinical evaluation and should be tested in the actual or
+simulated use environment as a part of validation. This testing should involve devices
+which are manufactured using the same methods and procedures expected to be used for
+ongoing production. While testing is always a part of validation, additional validation
+methods are often used in conjunction with testing, including analysis and inspection
+methods, compilation of relevant scientific literature, provision of historical evidence that
+similar designs and/or materials are clinically safe, and full clinical investigations or clinical
+trials.
+Some manufacturers have historically used their best assembly workers or skilled lab
+technicians to fabricate test articles, but this practice can obscure problems in the
+manufacturing process. It may be beneficial to ask the best workers to evaluate and
+critique the manufacturing process by trying it out, but pilot production should simulate as
+closely as possible the actual manufacturing conditions.
+Validation should also address product packaging and labeling. These components of the
+design may have significant human factors implications, and may affect product
+performance in unexpected ways. For example, packaging materials have been known to
+cause electrostatic discharge (ESD) failures in electronic devices. If the unit under test is
+delivered to the test site in the test engineer’s briefcase, the packaging problem may not
+become evident until after release to market.
+Validation should include simulation of the expected environmental conditions, such as
+temperature, humidity, shock and vibration, corrosive atmospheres, etc. For some classesof device, the environmental stresses encountered during shipment and installation far
+exceed those encountered during actual use, and should be addressed during validation.
+Particular care should be taken to distinguish among customers, users, and patients to
+ensure that validation addresses the needs of all relevant parties. For a consumer device,
+the customer, user, and patient may all be the same person. At the other extreme, the
+person who buys the device may be different from the person who routinely uses it on
+patients in a clinical setting. Hospital administrators, biomedical engineers, health
+insurance underwriters, physicians, nurses, medical technicians, and patients have distinct
+and sometimes competing needs with respect to a device design.
+VALIDATION DOCUMENTATION. Validation is a compilation of the results of all
+validation activities. For a complex design, the detailed results may be contained in a
+variety of separate documents and summarized in a validation report. Supporting
+information should be explicitly referenced in the validation report and either included as
+an appendix or available in the design history file.
+
+SECTION H. DESIGN TRANSFER
+I. REQUIREMENTS
+§ 820.30(h) Design transfer.
+Each manufacturer shall establish and maintain procedures to ensure that the
+device design is correctly translated into production specifications.
+Cross reference to ISO 9001:1994 and ISO/DIS 13485 section 4.2.3(c) Quality
+planning.
+II. DISCUSSION AND POINTS TO CONSIDER
+Production specifications must ensure that manufactured devices are repeatedly and
+reliably produced within product and process capabilities. If a manufactured device
+deviates outside those capabilities, performance may be compromised. Thus, the process
+of encapsulating knowledge about the device into production specifications is critical to
+device quality.
+The level of detail necessary to accomplish this objective varies widely, based on the type
+of device, the relationship between the design and manufacturing organizations, and the
+knowledge, experience, and skills of production workers. In some cases, devices are
+produced by contract manufacturers who have no involvement in the development and
+little or no contact with the designers. At the other extreme, some devices are handcrafted by skilled artisans with extensive knowledge about the use of the product.
+One normally associates the term “production specifications” with written documents,
+such as assembly drawings, component procurement specifications, workmanship
+standards, manufacturing instructions, and inspection and test specifications. While these
+types of documents are widely employed in medical device production, other equally
+acceptable means of conveying design information exist, and manufacturers have the
+flexibility to employ these alternate means of communication as appropriate. For example,
+each of the following could constitute “production specifications” within the meaning of
+the quality system requirements:
+documentation (in electronic format as well as paper)
+training materials, e.g., manufacturing processes, test and inspection methods
+digital data files, e.g., programmable device files, master EPROM, computer-aided
+manufacturing (CAM) programming files
+manufacturing jigs and aids, e.g., molds, sample wiring harness to be duplicated
+
+
+Section H. Design TransferHistorically, shortcomings in the production specifications tend to be manifested late in the
+product life cycle. When the design is new, there is often intensive interaction between the
+design and production teams, providing ample opportunity for undocumented information
+flow. Later, as production experience is gained, some decoupling often occurs between
+design and production teams. In addition, key personnel may leave, and their replacements
+may lack comparable training, experience, or institutional knowledge.
+Particular care should be taken when the product involves new and unproved
+manufacturing processes, or established processes which are new to the manufacturer. It
+may not be possible to determine the adequacy of full-scale manufacturing on the basis of
+successfully building prototypes or models in a laboratory and testing these prototypes or
+models. The engineering feasibility and production feasibility may be different because the
+equipment, tools, personnel, operating procedures, supervision and motivation could be
+different when a manufacturer scales up for routine production.
+No design team can anticipate all factors bearing on the success of the design, but
+procedures for design transfer should address at least the following basic elements.
+First, the design and development procedures should include a qualitative
+assessment of the completeness and adequacy of the production specifications.
+Second, the procedures should ensure that all documents and articles which
+constitute the production specifications are reviewed and approved.
+Third, the procedures should ensure that only approved specifications are used to
+manufacture production devices.
+
+
+The first item in the preceding list may be addressed during design transfer. The second
+and third elements are among the basic principles of document control and configuration
+management. As long as the production specifications are traditional paper documents,
+there is ample information available to guide manufacturers in implementing suitable
+procedures. When the production specifications include non-traditional means, flexibility
+and creativity may be needed to achieve comparable rigor.
+
+
+Section H. Design TransferSECTION I. DESIGN CHANGES
+I. REQUIREMENTS
+§ 820.30(i) Design changes.
+Each manufacturer shall establish and maintain procedures for the identification,
+documentation, validation or where appropriate verification, review, and approval
+of design changes before their implementation.
+
+
+Cross-reference to ISO 9001:1994 and ISO/DIS 13485 section 4.4.9 Design changes.
+II. DISCUSSION AND POINTS TO CONSIDER
+There are two principal administrative elements involved in controlling design changes:
+Document control—enumeration of design documents, and tracking their status
+and revision history. Throughout this section, the term “document” is used in an
+inclusive sense to mean all design documents, drawings, and other items of design
+input or output which characterize the design or some aspect of it.
+Change control—enumeration of deficiencies and corrective actions arising from
+verification and review of the design, and tracking their resolution prior to design
+transfer.
+
+
+For a small development project, an adequate process for managing change involves little
+more than documenting the design change, performing appropriate verification and
+validation, and keeping records of reviews. The main objectives are ensuring that:
+corrective actions are tracked to completion;
+changes are implemented in such a manner that the original problem is resolved
+and no new problems are created; or if new problems are created, they are also
+tracked to resolution; and
+design documentation is updated to accurately reflect the revised design.
+
+
+For projects involving more than two persons, coordination and communication of design
+changes become vitally important. In other words, manufacturers should take steps to
+avoid the common situation where, for example, Jon and Marie agree to a make a change
+but neglect to inform Pat of their decision.
+Medical device manufacturers are usually quite comfortable with the processes of
+document control and change control with respect to managing manufacturing documents.
+The principles of these processes are reviewed in the following paragraphs. Subsequently,
+we will explore how these may be applied to design activities.
+
+
+Section I. Design ChangesDOCUMENT CONTROL. The features of a manufacturing document control system
+typically include the following:
+Documents should be identified (i.e., named and numbered) in accordance with
+some logical scheme which links the documents to the product or component they
+describe or depict and illuminates the drawing hierarchy.
+A master list or index of documents should be maintained which presents a
+comprehensive overview of the documentation which collectively defines the
+product and/or process.
+Approval procedures should be prescribed which govern entry of documents into
+the document control system.
+A history of document revisions should be maintained.
+Procedures for distributing copies of controlled documents and tracking their
+location should be prescribed.
+Files of controlled documents should be periodically inventoried to ensure that the
+contents are up to date.
+A person or persons should be assigned specific responsibility to oversee and carry
+out these procedures. It is desirable that the document control system be
+administered by a person who is not directly involved with developing or using the
+documents. For a small manufacturer, document control might be a part-time job
+for a technician or clerical staff person. More typically, one or more librarians or
+full-time clerical or paraprofessional employees are required to administer the
+system.
+There should be a procedure for removal and deletion of obsolete documents.
+
+
+CHANGE CONTROL. Manufacturing change control is usually implemented using a
+set of standardized procedures similar to the following:
+A change request might be originated by a developer, manager, reviewer,
+marketing representative, user, customer, quality assurance representative, or
+production personnel, and identifies a design problem which the requester believes
+should be corrected. Change requests are typically reviewed following the
+manufacturer’s prescribed review process, and the request might be rejected,
+deferred, or accepted.
+If a change request is accepted and corrective action is straightforward, a change
+order might be issued on the spot to implement the change. The change order
+pertains to an explicitly identified document or group of documents, and specifies
+the detailed revision of the document content which will fix the identified problem.
+Often, the change request results in an assignment to developers to further study
+the problem and develop a suitable corrective action. If the change is extensive,
+wholesale revision of affected documents may be warranted in lieu of issuing
+change orders.
+Change requests and change orders should be communicated to all persons whose
+work might be impacted by the change.
+
+
+Section I. Design Changes
+It may not be practical to immediately revise documents affected by a change
+order. Instead, the common practice is to distribute and attach a copy of the
+change order to each controlled copy of the original document.
+Change control procedures should incorporate review and assessment of the
+impact of the design change on the design input requirements and intended uses.
+A mechanism should be established to track all change requests and change orders
+to ensure proper disposition.
+Change control procedures are usually administered by the document control staff.
+
+
+APPLICATION OF DOCUMENT AND CHANGE CONTROLS TO DESIGN. The
+design control system has to be concerned with the creation and revision of documents, as
+well as the management of finished documents. Additional mechanisms are required to
+provide needed flexibility while preserving the integrity of design documentation. These
+additional mechanisms are embodied in the procedures for review and approval of various
+documents.
+It is important that the design change procedures always include re-verifying and revalidating the design. Fortunately, most design changes occur early in the design process,
+prior to extensive design validation. Thus, for most design changes, a simple inspection is
+all that is required. The later in the development cycle that the change occurs, the more
+important the validation review becomes. There are numerous cases when seemingly
+innocuous design changes made late in the design phase or following release of the design
+to market have had disastrous consequences.
+For example, a manufacturer encountered problems in the field with a valve sticking in a
+ventilator due to moisture in the breathing circuit. The problem was resolved by slightly
+increasing the weight of the disc. Since the change was minor, minimal testing was
+performed to verify the change. Subsequently, when the revised valves entered
+production, significant numbers of valves began failing. Investigation revealed that the
+heavier disc was causing the valve cage to separate due to higher inertia. This failure
+mode was more serious than the original sticking problem, and resulted in a safety recall.
+
+SECTION J. DESIGN HISTORY FILE (DHF)
+I. REQUIREMENTS
+§ 820.30(j) Design history file.
+Each manufacturer shall establish and maintain a DHF for each type of device.
+The DHF shall contain or reference the records necessary to demonstrate that the
+design was developed in accordance with the approved design plan and the
+requirements of this part.
+Cross-reference to ISO 9001:1994 and ISO/DIS 13485 section 4.16 Control of
+quality records.
+II. DEFINITIONS
+§ 820.3(e) Design history file (DHF) means a compilation of records which describes the
+design history of a finished device.
+III. DISCUSSION AND POINTS TO CONSIDER
+There is no specific requirement in ISO 9001 or ISO 13485 for a design history file.
+However, in order to market a medical device in the United States, a manufacturer must
+comply with the U. S. Food and Drug Administration (FDA) quality system regulation,
+which requires a design history file. For this reason, some guidance is provided on the
+U. S. FDA design history file.
+Other national regulations require some form of documentation and records. Product
+documentation required by Canada, Europe, and Japan contain certain elements of the
+U. S. FDA design history file requirements without requiring all the elements to be
+compiled in a file.
+Virtually every section of the design control requirements specifies information which
+should be recorded. The compilation of these records is sometimes referred to as the
+design history file. Throughout this guidance document, suggestions are made when
+warranted as to the form and content of documents contained in the design history file.
+The primary beneficiary of the device history file is the device manufacturer. For example,
+in one case, a microprocessor-controlled enteral feeding pump was reported to be
+behaving erratically in the field. Some of the symptoms pointed to software problems. But
+the manufacturer admitted that they did not possess a copy of the software source code
+for the product. The software had been developed by a contractor who had delivered only
+a master EPROM (memory chip) which was duplicated by the manufacturer to install thesoftware in each machine. The contractor had subsequently withdrawn following a
+contractual dispute, leaving the manufacturer with no rights to the source code developed
+by the contractor, and no practical way to maintain the software. For this and other
+reasons, the product was the subject of a mandatory recall and all known units were
+collected and destroyed.
+This is admittedly an extreme case, but many similar cases have been documented in which
+the manufacturer lacked design information necessary to validate a design and maintain it
+throughout the product life cycle. This occurs for the most innocent of reasons—
+contracts expire, companies reorganize, employees move on to new projects or new jobs.
+Even when the designer is available, he or she may forget why a particular decision was
+made years, months, or even weeks before. Since design decisions often directly affect the
+well-being of device users and patients, it is to the manufacturer’s benefit to maintain the
+knowledge base which forms a basis for the product design.
+Except for small projects, it is unusual for all design history documents to be filed in a
+single location. For example, many design engineers maintain laboratory notebooks which
+are typically retained in the engineers’ personal files. In addition, the design history may
+include memoranda and electronic mail correspondence which are stored at various
+physical locations. Quality system plans applicable to a development project may reside in
+the quality assurance department, while the chief engineer may be responsible for
+maintaining design and development plans. These diverse records need not be
+consolidated at a single location. The intent is simply that manufacturers have access to
+the information when it is needed. If a manufacturer has established procedures for
+multiple filing systems which together satisfy that intent, there is no need to create
+additional procedures or records.
+As an example of the level of detail which may be entailed, some manufacturers have
+policies covering laboratory notebooks. Manufacturers typically find that without such
+written procedures, a breakdown in communications eventually occurs, resulting in a loss
+of control. These procedures might address the following points.
+
+
+Laboratory notebooks are the property of the manufacturer, not the individual.
+A separate notebook is to be maintained for each project, and surrendered to the
+engineering librarian at the conclusion of the engineer’s active participation in the
+project.
+Laboratory notebooks are to be surrendered if the employee leaves the company.
+Product development supervisors shall review employees’ laboratory notebooks at
+specified intervals to ensure that records are complete, accurate, and legible.
+
+
+There are no requirements on the location or organization of the design history file. In
+some cases, especially for simple designs, the designer will assemble and maintain the
+entire design history file. For larger projects, a document control system will likely be
+established for design documents, and these files will likely be maintained in some central
+location, usually within the product development department.
+
+
+Section J. Design History FileBased on the structure (or lack thereof) of the product development organization, more or
+less extensive controls will be required. For example, company policy should state
+unequivocally that all design history documentation is the property of the manufacturer,
+not the employee or contractor. Design and development contracts should explicitly
+specify the manufacturer’s right to design information and establish standards for the form
+and content of design documentation. Finally, certain basic design information may be
+maintained in a single project file in a specified location. This may include the following:
+Detailed design and development plan specifying design tasks and deliverables.
+Copies of approved design input documents and design output documents.
+Documentation of design reviews.
+Validation documentation.
+When applicable, copies of controlled design documents and change control
+records.
+

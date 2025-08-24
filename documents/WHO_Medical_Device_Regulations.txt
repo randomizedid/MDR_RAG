@@ -1,0 +1,1978 @@
+Chapter 1. Introduction
+Chapter 2. Medical device safety
+2.1 Medical device safety and risk management
+2.2 Effectiveness/performance of medical devices
+2.3 Phases in the life span of a medical device
+2.4 Participants in ensuring the safety of medical devices
+2.5 The role of each participant/stakeholder
+2.6 Shared responsibility for medical device safety and performance
+Chapter 3. Governmental regulation of medical devices
+3.1 Critical elements for regulatory attention
+3.2 Stages of regulatory control
+3.3 A common framework for medical device regulations
+3.4 Regulatory tools and general requirements
+3.4.1 Product control
+3.4.2 Vendor establishment control
+3.4.3 Post-market surveillance/vigilance
+3.4.4 Quality system requirements
+Chapter 4. Global Harmonization Task Force (GHTF)
+4.1 Objectives
+4.2 Scope of the four GHTF study groups
+4.3 Benefits of the GHTF
+4.4 Final documents from the GHTF
+4.5 Global Medical Device Nomenclature (GMDN)
+Chapter 5. Standards
+5.1 What are standards?
+5.2 Why do we need standards?
+5.3 Voluntary and mandatory standards
+5.4 Standards development process
+5.5 Conformity assessment with standards
+5.6 National and international standards systems
+5.7 Identification of standards
+5.8 Current trends in the use of standards in medical device regulations 22
+Chapter 6. Optimizing the use of regulatory resources
+6.1 Increasing knowledge of the medical device sector6.2 Establishing basic regulatory programmes
+6.2.1 Basic legislation
+6.2.2 Sharing problem reports
+6.3 Drafting a comprehensive policy or guideline on medical device
+management
+6.3.1 Advantages of a national policy
+6.3.2 Classification of medical devices
+6.3.3 Medical device product control
+6.3.4 Product representation control
+6.3.5 Vendor establishment control
+6.3.6 The control of home-use, refurbished, and donated devices
+6.3.7 The re-use of medical devices that are labelled “for single use”29
+6.3.8 Post-market surveillance
+6.3.9 Recognition and use of established national or
+international standards
+6.4 Promoting compliance and cooperation
+6.5 Setting priorities for regulatory programme development
+6.6 Cautions in interpreting medical device “export certificates”
+Chapter 7. Priorities on the international agenda
+
+
+MEDICAL DEVICE REGULATIONSForeword
+The term medical devices covers a vast range of equipment, from simple tongue depressors
+to haemodialysis machines. Like medicines and other health technologies, they are essential
+for patient care – at the bedside, at the rural health clinic or at the large, specialized
+hospital.
+Medical devices also cost governments a substantial amount of money. In 2000, the
+estimated one and a half million different medical devices available on the market
+represented over US$145 billion. With innovation and the rapid advancement of
+technologies, medical devices are currently one of the fastest growing industries, and the
+global market figure for 2006 is expected to exceed US$260 billion.
+Yet many countries lack access to high-quality devices and equipment that are
+appropriate for their specific epidemiological needs. This is particularly true in developing
+countries, where health technology assessments are rare and where little regulatory controls
+exist to prevent the importation or use of substandard devices. With the vast majority of
+devices in developing countries being imported, this leaves them prey to unscrupulous
+market influences and puts patients’ lives at risk.
+Governments need to put in place policies that will address all elements related to
+medical devices, ranging from access to high quality, affordable products, through to
+their safe and appropriate use and disposal. The health technology life cycle diagram
+(back cover) illustrates the policy process that needs to be in place. However, policies will
+be unsuccessful unless they are translated into national regulations that are enforced by
+legislation and correlating sanctions, and that form an integral part of the overall national
+health system.
+Surprisingly, regulatory controls for medical devices are scarce in the developing world,
+even though implementation of national medical device regulations will often address the
+very issues raised in countries as major concerns for patient safety. Examples of these
+issues include the illegal re-processing and re-packaging of used syringes for re-sale; the
+availability on the market of equipment that fails minimum quality and safety standards;
+or simply no trace of what devices are being sold in the country, nor by whom. Such a
+listing is essential to enable governments to issue alerts or recalls for unsafe or ineffective
+items.
+The purpose of this publication is to provide guidance to Member States wishing to
+create or modify their own regulatory systems for medical devices. It is recognized that
+there is no single template that will respond to the needs of every country. Some countries
+may have production facilities that will require good manufacturing practice and complex
+quality controls; others may depend principally on the donation of equipment from external
+sources and need different policies to protect their population against unsafe and
+inappropriate technology. Resources, both human and financial, remain a significant factor
+in the progressive development of national regulatory authorities. Nevertheless, there are
+many ways that governments can benefit from the wealth of experience of others, andstart to build efficient medical device regulatory systems. This publication highlights the
+most important of these.
+In essence, governments are encouraged to follow the growing movement towards
+harmonized regulatory systems because a proliferation of different national regulations
+increases costs, hinders access to health care technologies, and can even unwittingly
+jeopardize the safety of the patient.
+Secondly, Member States can adopt where appropriate the device approvals of the
+advanced regulatory systems, since this process represents a vast, and often unnecessary
+drain on scarce resources.
+This will allow countries with weak regulatory systems to place emphasis and initial
+resources on areas such as vendor and device registration, training, and surveillance and
+information exchange systems on the assessment of medical devices in use.
+WHO is reinforcing its role in providing technical support to Member States who wish
+to implement improved medical device regulatory systems. We hope that this guide provides
+a useful framework within which countries can assess and address their needs to protect
+their populations from the risks of unsafe technology.
+
+Glossary
+Note on the definition of medical devices
+The term “medical devices” includes everything from highly sophisticated computerized
+medical equipment down to simple wooden tongue depressors. The intended primary
+mode of action of a medical device on the human body, in contrast with that of medicinal
+products, is not metabolic, immunological, or pharmacological.
+Several different international classification systems for medical devices are still in use
+in the world today. The World Health Organization, with its partners, is working towards
+achieving harmonization in medical device nomenclature, which will have a significant
+impact on patient safety (see section 4.5). This is particularly important to be able to
+identify adverse incident reports and recalls.
+The Global Harmonization Task Force has proposed the following harmonized definition
+for medical devices (see GHTF document SG1/N029R11).
+“Medical device” means any instrument, apparatus, implement, machine, appliance,
+implant, in vitro reagent or calibrator, software, material or other similar or related
+article, intended by the manufacturer to be used, alone or in combination, for human
+beings for one or more of the specific purposes of:
+• diagnosis, prevention, monitoring, treatment or alleviation of disease
+• diagnosis, monitoring, treatment, alleviation of or compensation for an injury
+• investigation, replacement, modification, or support of the anatomy or of a
+physiological process
+• supporting or sustaining life
+• control of conception
+• disinfection of medical devices
+• providing information for medical purposes by means of in vitro examination of
+specimens derived from the human body and which does not achieve its primary
+intended action in or on the human body by pharmacological, immunological or
+metabolic means, but which may be assisted in its function by such means.
+Note: An accessory is not considered to be a medical device. However, where an
+accessory is intended specifically by its manufacturer to be used together with the
+‘parent’ medical device to enable the medical device to achieve its intended purpose,
+it should be subject to the same procedures and GHTF guidance documents as apply
+to the medical device itself.
+Note: The definition of a device for in vitro examination includes, for example,
+reagents, calibrators, sample collection devices, control materials, and relatedinstruments or apparatus. The information provided by such an in vitro diagnostic
+device may be for diagnostic, monitoring or compatibility purposes. In some
+jurisdictions, reagents and the like may be covered by separate regulations.
+Note: Products, which are considered to be medical devices in some jurisdictions
+but for which there is not yet a harmonized approach, are:
+• aids for disabled/handicapped people
+• devices for the treatment/diagnosis of diseases and injuries in animals
+• spare parts for medical devices
+• devices incorporating animal and human tissues which may meet the requirements
+of the above definition but be subject to different controls.
+A country may develop its own guidance document for any detailed descriptions they
+may require.
+
+
+Terms in regulations are legally binding and therefore have restricted meanings. For
+example, manufacturer, distributor, vendors, retailers all have precise definitions in
+regulations, and their definitions vary in the regulations of different countries. A regulation
+normally has an accompanying list of definitions of terms used. A harmonized definition
+of many important terms such as performance, effectiveness, vigilance and incidents, are
+still under development.
+This guideline, however, is written to promote a general understanding of medical
+device issues and their regulations. Therefore, the words used here are non-binding but
+carry general meanings.
+Adverse Event a problem that can or does result in permanent impairment, injury or
+death to the patient or the user.
+Effectiveness a device is clinically effective when it produces the effect intended by the
+manufacturer relative to the medical conditions. For example, if a device is intended
+for pain relief, one expects the device to actually relieve pain and would also expect
+the manufacturer to possess objective evidence, such as clinical test results, that the
+device does in fact relieve pain. Effectiveness can be thought of as efficacy in the real
+world clinical environment.
+Efficacy not used in this guideline, generally means effectiveness under an ideal controlled
+setting.
+Incident an unusual (unexpected) event associated with the use of a medical device.
+May or may not lead to problems. All incidents should be investigated for potential
+problems (see section 6.3.8).
+
+
+Manufacturer
+any person who produces medical devices.
+Performance
+means technical performance plus effectiveness (see section 2.2).
+Person
+includes an establishment (in that case, person-in-charge or person responsible).
+Placing on-market “Pre-market” and “post-market” are established regulatory terms.
+“Post-market” really refers to when the products are on the market. “Placing onmarket” aims to distinguish the regulations governing the commercial aspectscommensurate with the life span diagram (a memory anchor used in this publication).
+“Placing on-market” also provides a convenient reference for countries that wish to
+establish regulatory programmes.
+Post-market surveillance and vigilance The different terms in post-market surveillance
+are currently used by different countries with varying meanings. The Global
+Harmonization Task Force is in the process of defining the different terms. This
+Guide uses the US FDA terms which are well described on the internet (www.fda.gov/
+cdrh/postsurv/).
+In this Guide post-market surveillance is a broad term that covers any and all
+monitoring activities including the vigilance system for medical devices in use.
+In Europe, vigilance concerns the responsability of the manufacturer to inform the
+competent authority of incidents, according to national/European legislation.
+Problem a broad term that covers possible faults of the device, difficulties in using the
+device or an undesirable outcome associated with the use of the device. A problem
+may not lead to an adverse event but corrective or preventive actions are required.
+Vendor any person who sells medical devices. This person could be a manufacturer, an
+importer, a distributor, a wholesaler, or a retailer.
+
+CHAPTER 1
+Introduction
+The regulation of medical devices is a vast and rapidly evolving field that is often
+complicated by legal technicalities. For example, legal terms and their meanings are
+sometimes non-uniform even within one regulatory system. In an attempt to make this
+complex subject easier to grasp, this Guide presents a common framework that integrates
+the regulatory systems of the five countries or regions with the most advanced medical
+device regulations. Non-technical language, graphics, tables and memory anchors are
+used to present an overview of medical device safety issues and regulatory philosophy.
+The Guide begins by explaining how safety is a risk management issue, and how
+optimum safety and performance require cooperation among all who are involved in the
+life span of a medical device. The critical elements of medical device regulations are
+illustrated using a common framework for regulatory development; as well as the current
+regulatory tools of the Global Harmonization Task Force (GHTF) and all the key
+documents it has issued in the past three years.
+Understanding the different phases in the life span of a medical device and the common
+framework are first steps to successful harmonization and simplification worldwide.
+
+
+Summary of contents
+Chapter 2 describes the nature of medical device safety as a risk management process that
+must encompass the life span of medical devices from their conception to disposal. A Life
+Span Diagram facilitates understanding and serves as a memory anchor. Optimum safety
+and performance require cooperation among all those involved in the life span of a medical
+device: the manufacturer, importer/vendor, government, user and public – each has a
+specific role to play in risk management.
+Chapter 3 considers the role of the government. The critical elements of the life span of
+medical devices that require regulatory attention are highlighted. A common regulatory
+framework is proposed integrating the five regulatory systems with the most advanced
+medical device regulations, along with the applicable regulatory tools.
+Chapter 4 introduces the work of the Global Harmonization Task Force (GHTF), whose
+mission is to harmonize the implementation of medical device regulations across the globe.
+The objectives of its four Study Groups as they relate to the Medical Device Life Span
+Diagram are described. In order to facilitate ease of reference for countries wishing to
+adopt them, Annex 2 provides a summary of all final GHTF documents as they relate to
+the common regulatory framework.
+Chapter 5 provides an introduction to standards. It describes the use of voluntary standards
+and their increasing prominence in medical device regulation. Countries are urged to
+establish national standards management systems and, where possible, to adopt
+international standards and to participate in their development and amendment.
+
+Chapter 6 suggests various steps for governments seeking to establish an affordable
+regulatory programme from the ground up for ensuring the safety and performance of
+medical devices. The need for knowledge, policies, legislation and enforcement of medical
+device safety is discussed. Governments are encouraged to avoid setting up resource
+demanding “pre-market” regulations, but rather to take advantage of existing approval
+systems and international standards. An explanation of the meaning of different medical
+device “export certificates” is offered. Cooperation from all stakeholders is encouraged
+to increase programme effectiveness while reducing regulatory costs.
+Chapter 7 proposes two actions that could be undertaken at the international level to
+address priority needs for product control and their safe and effective use:
+i) The establishment of a uniform certification format that will be used globally so that
+different countries can certify that medical devices being exported comply with their
+domestic regulatory requirements. This certification will help the importing countries
+to regulate medical devices.
+ii) Support for a centre to coordinate and relay medical device problems, recalls, and
+alerts to the global community. This will enhance the safety and performance of medical
+devices in use around the world.
+Annexes 1–4 also provide a selection of further reading and information on the issues
+raised in this publication.
+
+
+MEDICAL DEVICE REGULATIONS
+CHAPTER 2
+Medical device safety
+The optimum assurance of medical device safety has several essential elements:
+• Absolute safety cannot be guaranteed
+• It is a risk management issue
+• It is closely aligned with device effectiveness/performance
+• It must be considered throughout the life span of the device
+• It requires shared responsibility among the stakeholders
+Each of these features is discussed below.
+
+
+2.1 Medical device safety and risk management
+Safety can only be considered in relative terms. All devices carry a certain degree of risk
+and could cause problems in specific circumstances. Many medical device problems cannot
+be detected until extensive market experience is gained. For example, an implantable
+device may fail in a manner that was not predictable at the time of implantation; the
+failure may reflect conditions unique to certain patients. For other devices, component
+failure can also be unpredictable or random. The current approach to device safety is to
+estimate the potential of a device becoming a hazard that could result in safety problems
+and harm. This estimate is often referred to as the risk assessment.
+Hazard is a potential for an adverse event, a source of danger. Risk is a measure of the
+combination of (1) the hazard; (2) the likelihood of occurrence of the adverse event; (3)
+the severity or overall impact. Risk assessment begins with risk analysis to identify all
+possible hazards, followed by risk evaluation to estimate the risk of each hazard. In
+general, risk assessment is based on experience, evidence, computation, or even guesswork.
+Risk assessment is complex, as it can be influenced by personal perception and other
+factors such as cultural background, economic conditions, and political climates.
+In practice, risk assessment of medical devices is based on the experience of health care
+professionals and on safety design engineering. In the United States, governmental risk
+assessment of medical devices is based mainly on recommendations from members of 16
+medical specialty panels, and devices are categorized into three classes. In the European
+Union and Canada, the classification schemes for medical devices are predominantly rulebased. These rules categorize medical devices according to their perceived potential hazards.
+Canada assigns four classes of devices. The European Union assigns three classes with
+class II being sub-divided into IIa and IIb (effectively, also four classes). The Global
+Harmonization Task Force (GHTF) is proposing a harmonized scheme for medical device
+classification (see www.GHTF.org document SG1/N015R18).
+In classifying devices, potential areas of hazard that warrant consideration include the
+degree of invasiveness, duration of contact, the body system affected, and local versussystemic effects. An invasive device is usually considered to have higher potential hazard
+than an equivalent non-invasive device (e.g. there are invasive and non-invasive blood
+pressure monitors). Similarly, devices that have a long duration of contact, that affect
+vital organs such the heart or the great arteries, or that have systemic effects are assigned
+higher classes of potential hazard or risk. The degree of regulation imposed on any device
+is proportional to its potential hazard. This approach is known as risk management.
+The first requirement of the “Essential principles of safety and performance of medical
+devices” recommended by the GHTF (SG1-N020R5) illustrates such an approach. It states
+that:
+Medical devices should be designed and manufactured in such a way that, when
+used under the conditions and for the purposes intended and, where applicable, by
+virtue of the technical knowledge, experience, education or training of intended
+users, they will not compromise the clinical condition or the safety of patients, or
+the safety and health of users or, where applicable, other persons, provided that any
+risks which may be associated with their use constitute acceptable risks when weighed
+against the benefits to the patient and are compatible with a high level of protection
+of health and safety.
+This statement highlights the risk/benefit nature of medical devices. The goal, therefore,
+is to maximize benefit and minimize risk. Manufacturers of medical devices also use the
+risk management approach. The International Organization for Standardization (ISO)
+has produced a document (ISO 14971:2000) providing manufacturers with a framework
+including risk analysis, risk evaluation and risk control for risk management in medical
+device design, development, manufacturing as well as for monitoring the safety and
+performance of the device after sale.
+
+
+2.2 Effectiveness/performance1 of medical devices
+Every device has a designed purpose. A device is clinically effective when it produces the
+effect intended by the manufacturer relative to the medical condition. For example, if a
+device is intended for pain relief, one expects the device to actually relieve pain and would
+also expect the manufacturer to possess objective, scientific evidence, such as clinical test
+results, that the device does in fact relieve pain.
+Clinical effectiveness is a good indicator of device performance. Performance, however,
+may include technical functions in addition to clinical effectiveness. For example, an alarm
+feature may not directly contribute to clinical effectiveness but would serve other useful
+purposes. Furthermore, it is easier to measure objectively and quantify performance than
+clinical effectiveness.
+Performance is closely linked to safety. For example, a blood collection syringe with a
+blunt needle would perform badly for collecting blood and could inflict injury. A patient
+monitor that does not perform well could pose serious clinical safety problems to the
+patient. Thus, the safety and performance of medical devices are normally considered
+together.
+The above discussion highlights the inherent risk of a medical device. It is incumbent
+on the medical device manufacturer to demonstrate that all possible risks associated with
+the device are identified and adequately addressed. The role of the regulatory authority is
+to ensure that the manufacturer has effectively implemented the risk management process
+
+
+The terms “performance”, “effectiveness” and “efficacy” are commonly used in association with medical
+devices. Here, effectiveness means clinical effectiveness as described below. Performance means technical
+performance plus clinical effectiveness. Efficacy, not used here, generally means effectiveness under an ideal
+controlled setting.
+
+and fulfilled other regulatory requirements. The following section expands this issue and
+illustrates how other aspects in the life span of medical devices can affect their safety and
+performance.
+
+
+2.3 Phases in the life span of a medical device
+Figure 1 illustrates the major phases in the life span of a medical device from conception
+and development to disposal. The activity phases are simplified to make it easier to
+understand the regulatory system. For example, the development phase includes
+development planning, design verification/validation, prototype testing and clinical trials.
+In practice, the phases outlined below may overlap and interact.
+
+
+It is important to recognize that any of these phases can affect the safety and performance
+of a medical device. Examples of how each phase can create health hazards are described
+below:
+1. Conception and development
+The scientific principles upon which a device is based are fundamental to its safety and
+performance. For example, a cardiac pacemaker should deliver a minute electrical impulse
+of a certain size and shape that simulates the natural functioning of the heart. Significant
+deviation from this may compromise safety and performance.
+The more complex the device, the higher the risk of user error. Soundness of concept
+and adequacy of design, construction, and testing (including verification, validation and
+clinical trials) require the scrutiny of scientific experts to ensure that design parameters
+and performance characteristics do not impose unwarranted risks.
+2. Manufacture
+Good, functional medical devices are produced when the manufacturing process is
+adequately managed. However, poor manufacturing management can produce
+inconsistency in the quality of products, such that non-conforming devices can filter through
+the production line to the market, even when the original prototype has been well-designed.
+This consideration has led to the development of good manufacturing practice (GMP) for
+drugs, biological products and medical devices. Now, GMP is more commonly referred to
+as “quality systems in manufacturing”, and these are addressed later in this guide.
+3. Packaging and labelling
+Properly packaged medical devices pose little risk to individuals handling them, even if
+the medical device is biohazardous. This highlights the importance of well-designed
+packaging systems in delivering clean, sterile and protected medical devices to the point
+of use. Shipping is one of the hazards a medical device and its packaging must survive.
+Subtle damage can result during transportation and handling unless the total packaging
+system is designed robustly and can withstand various stresses. Well-sealed packaging is
+essential for those medical devices that must be maintained sterile.
+4. Advertising
+Advertisement has the potential to create expectations and powerfully influence the belief
+in a medical device’s capabilities. It is important, therefore, that medical device marketing
+and advertising are regulated to prevent misrepresentation of a medical device and its
+performance. Misleading or fraudulent advertising of medical devices may increase sales.
+However, from the buyer’s perspective, the purchase of an inappropriate medical device is
+a waste of money that may deprive the patient of more appropriate treatment and could
+lead to patient or user injury.
+5. Sale
+The sale of medical devices by the vendor is a critical stage that leads to the device being
+put into actual use. If the vendor is not subject to regulation, then there is higher risk of
+exposing the public to low quality or ineffective devices.
+6. Use
+Users of medical devices can have a profound effect on their safety and effective
+performance. Unfamiliarity with a certain technology or operating procedure, and the
+use of products for clinical indications outside the scope of those specified in the labelling,
+can cause device failure even in the absence of any inherent design or manufacturing
+defects. Within the clinical engineering community it is widely believed that user error
+underlies at least half of all medical device-related injuries and deaths.
+The re-use of disposable devices contrary to the manufacturers instructions, and without
+proper control or precautions for minimizing associated risks, can be dangerous (see
+6.3.7).
+The lack of, or inappropriate, calibration and maintenance of medical devices can
+seriously jeopardize their safety and performance. These issues are often overlooked or
+underestimated.
+7. Disposal
+Disposal of certain types of devices should follow specific and stringent safety rules. For
+example, devices that are contaminated after use (e.g. syringes) or devices that contain
+toxic chemicals, can present hazards to people or the environment and must be disposed
+of properly.
+It is people who manage each phase in the life span of a medical device, and these
+people should be identified and called on to participate in ensuring medical device safety.
+
+
+2.4 Participants in ensuring the safety of medical devices
+As shown in Figure 2, the manufacturer usually manages the first three phases of the
+medical device’s life span. The term Vendor includes importers, distributors, retailers and
+manufacturers who sell medical equipment. The User is usually a professional in a health
+care facility, but may also be the patients.
+In addition to these three categories of person who are directly involved with the different
+phases of medical devices, the Public/Patient and the Government are also key interested
+parties. The public are the ultimate beneficiary of medical devices, and in the case of overthe-counter (home-use) devices, they are the user as well. The government has the
+responsibility of overseeing that medical devices sold in the country are safe and effective.
+
+
+Together, the Manufacturer, Vendor, User, Public and Government are the stakeholders.
+All five play critical roles in ensuring the safety of medical devices.
+The most important factor that ensures the cooperation of all these stakeholders is an
+informed and common understanding of the issues. Shared understanding and responsibility
+are achieved through communication and mutual education, which can be effectively
+achieved by having all stakeholders participate in establishing the process that ensures
+safety and performance of medical devices.
+
+
+2.5 The role of each participant/stakeholder
+The manufacturer, as the creator of the device, must ensure that it is manufactured to
+meet or exceed the required standards of safety and performance. This includes the three
+phases (design/development/testing, manufacturing, packaging and labelling) that lead to
+a product being ready for the market.
+The term “user error” is defined as an act that has a different result than that intended
+by the manufacturer or expected by the operator. User error may result from a mismatch
+between variables, for example the operator, device, task, or environment. By incorporating
+human factor engineering principles in design, and appropriate training for users, the risk
+of user errors can be minimized.
+The vendor provides the interface between the product and the user. He/she should ensure
+that the products sold comply with regulatory requirements. With increasing public interest
+in health and a competitive marketplace, vendors should be careful to avoid making
+misleading or fraudulent claims about their products or issuing false compliance certificates.
+In addition, used or refurbished devices should be clearly labelled as such.
+Vendors should provide after-sale service. Medical devices often require specialized
+training from the manufacturer for proper use and service; therefore, the vendor should
+make training a condition to the manufacturer or importer in accepting to sell the device.
+In turn, vendors should take responsibility in supporting or training their customers.
+Participating in post-market surveillance (receiving and reporting customer complaints/
+incidents) is critical for ensuring medical device safety and performance. The vendor must
+fulfil these obligations specified by the regulatory authority. For example, the vendor
+must make arrangements for processing complaint/incident reports relating to medical
+device safety and performance.
+In the case of home-use medical devices, the vendor should recognize that the device
+being sold might end up in the hands of a layperson who may need special instructions
+for the proper use and maintenance of the device. In this situation, efforts must be made
+to provide non-technical instructions and to educate and help the customer.
+The user should make sure that he/she has qualifications and training in the proper use of
+the device, and is familiar with the indications, contra-indications and operating procedures
+recommended by the manufacturer. It is crucial that experience gained with medical devices
+be shared with other users, the vendor and manufacturer to prevent future problems.
+This can be done by reporting any incidents to a coordinating centre from which warnings
+can be issued.
+
+
+CHAPTER 2. MEDICAL DEVICE SAFETYWhen using medical devices, users should always bear in mind that the safety and
+health of the patients are in their hands. The user has the responsibility to employ the
+medical device only for the intended indications (or to assure that any non-indicated use
+of the medical device does not compromise the safety of the patient and other users). The
+user also has the responsibility to ensure proper maintenance of medical devices during
+active use and safe disposal of obsolete medical devices.
+The public are the ultimate beneficiary of medical devices. They should be fully aware
+that all devices carry a certain risk and that they can help to promote safety and performance
+through self education and by putting “customer pressure” (see section 6.4) on
+manufacturers to comply with standards.
+Medical devices are increasingly available for home use, making the Public the direct
+user. Purchasers of home-use medical devices should be aware of associated risks and
+take the responsibility to become educated in the functions and correct operating procedures
+for those devices.
+The government has the responsibility to oversee the efforts of manufacturers and vendors
+and ensure that medical devices sold or made available in the country are safe and effective.
+It should provide leadership in creating healthy cooperation among stakeholders in
+establishing policies and regulations that are fair and clear to all. Policies and regulations
+should be reviewed periodically to respond to changes in technologies by incorporating
+appropriate amendments.
+
+
+2.6 Shared responsibility for medical device safety and performance
+In conclusion, the ideal conditions that will ensure the safety and performance of medical
+devices require shared responsibility by all stakeholders. This need for cooperation is
+illustrated below.
+The circle formed by the stakeholders illustrates the shared responsibility. The diamond
+handshake symbolizes cooperation and two-way communication (2-way arrow), and the
+star highlights how the fundamental elements for cooperation function best when all
+stakeholders communicate with each other.
+Figure 3. Ideal conditions for ensuring the safety and performance of medical devices
+
+CHAPTER 3
+Governmental regulation
+of medical devices
+The previous section has demonstrated that medical device safety requires that all
+stakeholders co-operate and share responsibilities. The roles of each party have been
+described. This section will concentrate on how governments can fulfil part of their duties
+through the implementation of regulations.
+The common regulatory terms pre-market and post-market are introduced and
+illustrated with the device life span diagram. The term placing on-market, although not
+an official regulatory term, is introduced here to provide a logical understanding of an
+important stage in the regulatory mechanism.
+3.1 Critical elements for regulatory attention
+The safety and performance of medical devices depend on two critical elements:
+
+
+Pre-market review contributes to product control, and post-market surveillance ensures
+that medical devices in use continue to be safe and effective.
+There is an important third element, which is the representation of the product to the
+user. This is controlled through labelling (during the pre-market stage) and advertising of
+the product (see section 6.3.4). Another aspect of product representation, however, is
+verbal presentation by the vendor. User/public education is key in guarding against
+misrepresentation.
+
+3.2 Stages of regulatory control
+We can identify the control of these three critical elements by relating them to the now
+familiar Life Span diagram shown below.
+Pre-market control is performed on the device to ensure that the product to be placed onmarket complies with regulatory requirements. Labelling and advertising control is
+maintained for correct product representation. Placing-on-market control ensures
+establishment registration, device listing and after-sale obligations. Post-market
+surveillance/vigilance ensures the continued safety and performance of devices in use.
+
+
+3.3 A common framework for medical device regulations
+The items or activities that are most commonly subjected to regulation are show in Table 1.
+
+
+Items
+or activities
+regulated
+Device attributes
+• Safety and performance
+Establishment registration
+• List products available
+or in use
+• Requires vendor to fulfil
+after-sale obligations
+Surveillance/vigilance
+• After-sale obligations
+• Monitoring of device’s
+clinical performance
+• Problem identification
+and alerts
+Manufacturing
+• Quality systems (see 3.4.4)
+Labelling (representation)
+• Accurate description of
+product
+• Instructions for use
+Advertising (representation)
+• Prohibits misleading or
+fraudulent advertisement
+
+3.4 Regulatory tools and general requirements
+The requirements for the three stages of regulatory control of the five founding members
+of the GHTF are summarized below. Note that although the different governing bodies
+use different terms, their functions are actually quite similar.
+
+
+3.4.1 Product control
+Although different authorities have different systems of pre-market review, they all apply
+the risk management philosophy. All medical devices must satisfy safety and performance,
+quality system (some low-risk devices may be exempt) and labelling requirements. However,
+the degree of regulatory scrutiny increases with the potential risks of the medical device,
+as evidenced by the risk-based device classification system (SG1-N015R14) proposed by
+the GHTF.
+Authorities acknowledge product clearance for the market in various ways. In Australia,
+the Therapeutic Goods Administration issues an ARTG (Australian Register of Therapeutic
+Goods) number to devices cleared for the market. In Canada, a Device Licence is awarded
+by the Therapeutic Products Directorate. In the European Union, after receiving the EC
+certificate from a notified body, the manufacturer places the CE mark on or with the
+device. In Japan, a Shounin is issued by the Pharmaceutical and Medical Safety Bureau of
+the Ministry of Health, Labor and Welfare. In the United States, the manufacturer of the
+device receives a Marketing Clearance (510K) or an Approval Letter (PMA) from the
+FDA.
+
+
+CHAPTER 3. GOVERNMENTAL REGULATION OF MEDICAL DEVICESIn Canada, devices of classes III and IV are subject to in-depth regulatory scrutiny,
+while class II devices require only the manufacturer’s declaration of device safety and
+effectiveness before sale. Class I devices are exempted from pre-market submission, but
+they must still satisfy the safety, effectiveness and labelling requirements.
+In the European system, manufacturers of devices of classes II and III, as well as devices
+of class I with either measuring function or sterility requirements, must submit to the
+regulator (competent authority): (1) a Declaration of Conformity to the appropriate EC
+Directives, and (2) details of the conformity assessment procedure followed. In addition,
+for higher risk class devices that require design examination or type examination, the
+corresponding EC-Certificates issued by a notified body must also be submitted to the
+competent authority. Other medical devices of class I are exempt from pre-market
+submissions, although they must follow the essential principles of safety and performance
+in their design, construction and labelling requirements.
+In Australia, all “registrable” devices must undergo rigorous pre-market evaluation
+before market entry. “Listable” devices are less rigorously regulated, but may be evaluated
+for safety (not efficacy) if there are regulatory concerns about the risk profile of the product.
+Devices manufactured for a particular person, or those built within a health facility and
+not commercially supplied, are exempt from the requirement to be registered or listed.
+Under some circumstances, the manufacturing facilities may need to be licensed.
+In Japan, class I devices are granted Todokede by the regional authorities. Some class II
+low-risk devices are granted Todokede if their safety and effectiveness have been established
+previously. All devices above class II must obtain a central government licence for market
+entry. The Ministry of Health, Labor and Welfare is working on the Pharmaceutical
+Administration Law (PAL) revision towards risk-based medical device regulation, in line
+with the GHTF principles. The new PAL revision should become effective in 2005.
+In the United States, most Class III and new devices that are not substantially equivalent
+to a legally marketed product that does not require a Pre-Market Approval application,
+require clearance through the PMA or Product Development Protocol processes. Most
+class II and some class I devices require pre-market entry notification (termed 510k, an
+information package for the FDA, which is subject to less stringent review than the PMA
+process. The 510k submission must demonstrate how the proposed medical device is
+substantially equivalent to a medical device that is already on the US market. Most class
+I and some class II (low-risk) devices are exempt from 510k submission before sale, but
+are still subject to general control requirements.)
+
+
+3.4.2 Vendor establishment control
+Vendor information facilitates governments in tracking medical device vendors. In
+Australia, the sponsor must hold an Enterprise Identification Number before being
+permitted to apply to register or list products. Similarly, in Canada, any individual or
+company wishing to sell medical devices must apply for permission to obtain an
+establishment licence. The European Union requires that a responsible person of the vendor
+establishment with a physical address in Europe be registered. In Japan, medical device
+sales organizations must have a licence called “Hanbai-Gyoo” or “Hanbai Todoke”. In
+addition, importers are required to have a licence called “Yunyu Hanbai-Gyo”. In the
+United States, the establishment (manufacturers, initial importer, specifications developer,
+contract sterilizer, re-packager and/or re-labeller) must be registered with the FDA.
+With all five authorities, the licensing or registration process also imposes obligations
+on the vendor for post-market surveillance and/or duties.
+
+
+MEDICAL DEVICE REGULATIONS
+3.4.3 Post-market surveillance/vigilance
+It is critically important that the safety and performance of medical devices are continually
+assessed when they are in use, as these characteristics can only be proven if one measures
+how a device stands up in these conditions. No amount of rigour in the pre-marketing
+review process can predict all possible device failures or incidents arising from device
+misuse. It is through actual use that unforeseen problems related to safety and performance
+can occur.
+Different terms in medical device vigilance and post-market surveillance have varying
+meanings in different countries. Whilst the GHTF is defining these terms, this document
+will use the definitions of the US FDA (see www.fda.gov/cdrh/postsurv/).
+Post-market surveillance is a broad term that covers all monitoring activities of medical
+devices in use. The two principal activities within surveillance are “post-market surveillance
+studies” and “adverse event reporting”.
+In post-market surveillance studies, specific and structured data collections are required
+of the manufacturer in one of two situations: (1) as a condition of product approval, or
+(2) to re-affirm product safety when post-market adverse event reports suggest that premarket safety claims are inconsistent with actual use and result in unacceptable risk.
+Japanese authorities and the FDA actively make use of surveillance data collection to
+augment the findings of pre-market trials.
+Adverse event reporting requires the registration and investigation of adverse events
+relating to the use of a device, and the authority necessary to oblige the manufacturer to
+recall or modify a defective device. All founding members of the GHTF have mandatory
+requirements for vendors or manufacturers to report all device-related events that have
+resulted, or could result, in serious injury or death. In some countries, mandatory adverse
+event reporting is also extended to users.
+Post-market surveillance is interrelated to the quality system requirements described in
+the following section.
+
+
+3.4.4 Quality system requirements
+A Quality System is defined as the organizational structure, responsibilities, procedures,
+processes and resources needed to implement quality management. Quality system
+standards are “generic management standards” and are described in section 5.1.
+The international quality system standards for medical devices are issued by the
+International Organization for Standardization (ISO) (ISO13485:1996 and ISO13488:
+1996). ISO13485:1996 includes all the elements of ISO9001:1994 plus a set of minimum
+supplementary requirements for medical devices. The relationship between ISO9001:1994
+and ISO13485:1996 is described in Annex 3. ISO13488:1996 is the same as ISO13485:
+1994, but without the design control requirements. A new standard, ISO13485:200?, is
+currently being developed and will become the international reference standard for medical
+devices.
+Regulations for quality systems may cover the methods, facilities and controls used by
+the manufacturer in the design, manufacture, packaging, labelling, storage, installation,
+servicing and post-market handling of medical devices. Therefore, quality system
+requirements can influence all phases in the medical device life span. Applicable requirements depend upon the risk class of the device and on the regulatory system of the country.
+Design control is normally not required for regulatory scrutiny in medium- to low-risk
+devices.
+When applied to the manufacturing process, quality system requirements impose strict
+quality assurance on every aspect of production. The result is a tightly controlled
+manufacturing system, commonly known as Good Manufacturing Practice (GMP), which
+13
+CHAPTER 3. GOVERNMENTAL REGULATION OF MEDICAL DEVICES
+
+reduces the likelihood of non-conforming products. This practice ensures consistency in
+the quality and provides the basis for greater reliability in device safety and performance.
+Elements of the quality system are periodically subject to audits, management review, and
+corrective or preventive actions that will maintain product quality. Continuous monitoring
+and corrective action requirements are interrelated to post-market surveillance previously
+described.
+The key advantage regarding quality systems is that they represent a preventive approach
+to assuring medical device quality versus the previous reactive approach by inspection
+and rejection at the end of the manufacturing line. Prevention has been proven to be more
+efficient and cost effective in controlling manufacturing processes and maintaining medical
+device quality.
+It is important to note that since the majority of medical devices are in the medium- to
+low-risk classes, their compliance with regulations often depends upon the declarations
+of manufacturers, thus the question of quality assurance naturally arises. This is why it is
+critical for manufacturers to conform with quality system standards and for this conformity
+to be subject to periodic audit by governmental or third party agencies.
+All founding members of the GHTF have quality system requirements for their
+manufacturers, who are subject to periodic inspection by the government and/or accredited
+third party agencies. The applicable standard is determined by the risk class of the device
+and depends upon the regulatory system of the country or region.
+
+
+With the rapid growth in the global market for medical devices, there is a need to
+harmonize national standards in order to minimize regulatory barriers and to facilitate
+trade. Harmonization also reduces the cost of local industry and government regulations.
+The next chapter summarizes the work of the Global Harmonization Task Force to
+find common elements and ways to unify the different national standards and regulatory
+practices.
+
+
+MEDICAL DEVICE REGULATIONS
+CHAPTER 4
+
+Global Harmonization Task Force
+(GHTF)
+
+4.1 Objectives
+Medical devices, like drugs, are used worldwide. With the rapid growth in the global
+market for medical devices, there is a need to harmonize national standards in order to
+minimize regulatory barriers, facilitate trade and improve access to new technologies.
+Harmonization also reduces the cost of implementing regulations for governments and
+local industry. The Global Harmonization Task Force (GHTF) was founded in 1993 by
+the governments and industry representatives of Australia, Canada, Japan, the European
+Union, and the United States of America to address these issues.
+The purpose of the GHTF is to encourage a convergence in standards and regulatory
+practices related to the safety, performance and quality of medical devices. The GHTF
+also promotes technological innovation and facilitates international trade. The primary
+means by which its goals are accomplished is via the publication and dissemination of
+harmonized guidance documents for basic regulatory practices. These documents, which
+are developed by four different GHTF Study Groups, can then be adopted/implemented
+by member national regulatory authorities or others. Technical committee members include
+representatives from national medical device regulatory authorities and the regulated
+industry.
+
+
+4.2 Scope of the four GHTF study groups
+Study Group 1: is charged with comparing operational medical device regulatory systems
+around the world and from that comparison, isolating the elements/principles that are
+suitable for harmonization and those that may present obstacles to uniform regulations.
+In addition, the group is also responsible for developing a standardized format for premarket submissions and harmonized product labelling requirements.
+Study Group 2: examines the requirements for:
+1. the reporting of adverse events involving medical devices,
+2. post-market surveillance and other forms of vigilance
+In addition, it is responsible for recommending ways of harmonizing the requirements,
+and for providing a discussion forum for harmonization initiatives.
+Study Group 3: is responsible for examining existing quality system requirements in countries
+that already have well-developed device regulatory systems and identifying areas suitable
+for harmonization.
+Study Group 4: is charged with the task of examining quality system auditing practices
+(initially among the founding members of the GHTF) and developing guidance documents
+that lay out harmonized principles for medical device auditing.
+It may be helpful to relate the roles of these four groups to the medical device life span.
+
+
+(For simplification, the solid line arrows indicate the primary focuses of work, although each group has a
+continuum of influence throughout all phases.)
+
+
+With the exception of commercial activities including advertising and sales, which give
+freedom to local variations, the GHTF Study Groups are involved in all aspects that have
+direct impact on the safety and performance of medical devices. Therefore,
+recommendations from the GHTF Task Forces can provide excellent reference or guidance
+for countries that are establishing medical devices regulation programmes.
+
+
+4.3 Benefits of the GHTF
+1. By following recommendations from the GHTF, countries can ensure that their
+regulatory controls are not in significant conflict with global harmonization
+recommendations. The GHTF is directing and converging the harmonized guidance
+documents.
+2. Critical issues such as safety and performance requirements, quality systems, standards
+and procedures of post-market surveillance are studied in-depth by experts from different
+countries to reach consensual recommendations and these are incorporated into the
+GHTF final guidance documents.
+3. Global harmonization and cooperation in post-market surveillance will facilitate an
+international devices data bank that allows rapid, global access to device information,
+alerts or recalls. This will promote the safety and effectiveness of medical devices.
+4. Where a country’s programme is harmonized with the programmes of other countries,
+regulatory burdens and costs for local government and industry will be significantly
+reduced, while regulatory cooperation, commerce and international trade will be
+enhanced.
+5. Other emerging issues of international significance can be put to the GHTF for a common
+solution.
+6. GHTF provides an opportunity for countries to participate and observe regulatory
+developments that they could adopt. The current trend towards a regional harmonization
+will be useful for countries and can be supported by WHO’s parallel regional structure.
+For example, at the 1998 GHTF Meeting in Australia, the Asian Harmonisation Working
+Party (AHWP) held its first formal meeting and at the 1999 GHTF meeting in the
+United States, medical device regulators of the Americas launched a regional GHTF
+group.
+
+
+MEDICAL DEVICE REGULATIONS
+4.4 Final documents from the GHTF
+As at June 2003, 19 final guidance documents supported by consensus of the regulators
+and industry representatives of the GHTF founding members have been published. These
+are listed in Annex 2 with an indication of how they relate to the common framework
+developed in this Guide. Each document is identified by study group (SG) and document
+numbers.
+Details of other recommendations under development by GHTF Study Groups may
+also be found at www.ghtf.org.
+
+4.5 Global Medical Device Nomenclature (GMDN)
+Achieving consistency in nomenclature is fundamental to the overall goal of international
+harmonization, particularly for the identification of devices involved in adverse incident
+reports.
+In 1993, the European Commission mandated the ‘Comité Européen de Normalisation’
+(CEN) to produce a standard indicating the structure of a nomenclature system that could
+meet the needs of the global market. The International Standards Organization was invited
+to participate to ensure that international considerations were addressed. The resulting
+standard was adopted as ‘EN/ISO 15225 Nomenclature – Specification for a nomenclature
+system for medical devices for the purposes of regulatory data exchange’.
+Before the creation of the Global Medical Device Nomenclature (GMDN) in 1997, a
+multitude of nomenclatures were being used, including the Universal Medical Device
+Nomenclature System. With the introduction of the European Directives for medical device
+regulations, the need for a standardized international nomenclature became clear. WHO
+supports wide consultation to adopt a single, harmonized option.
+The GMDN, endorsed by the GHTF as the global nomenclature to be used by regulators
+for the classification and registration of medical devices, is intended:
+1. to give a common generic description for every general term that describes characteristics
+of a medical device. This is to be used for identifying similar devices to those involved
+in an adverse incident report;
+2. to identify a device, using the generic term, for having been awarded a specific design
+or other certificate;
+3. to serve as a basis for E-commerce – to provide a generic basis for purchasing individual
+types of manufactured devices, by establishing a heading for comparison of products
+from different manufacturers.
+Further information on the GMDN can be found at http://www.gmdn.info/
+
+
+CHAPTER 4. GLOBAL HARMONIZATION TASK FORCE (GHTF)
+
+The understanding of standards systems, the standards development process and their
+use in conformity assessment has become essential in establishing medical device
+regulations. In this chapter, a general introduction to standards will be provided. This is
+followed by a description of current trends in the use of voluntary standards in medical
+device regulations and related recommendations of the GHTF.
+
+
+5.1 What are standards?
+The formal definition of a standard that should be adopted in the medical device domain
+is given by the ISO:
+Standards are documented agreements containing technical specifications or other precise
+criteria to be used consistently as rules, guidelines or definitions of characteristics, to
+ensure that materials, products, process and services are fit for their purpose.
+
+
+Types of specifications in standards
+Standards can establish a wide range of specifications for products, processes and services
+(see www.iso.org for definitions).
+1. Prescriptive specifications obligate product characteristics, e.g. device dimensions,
+biomaterials, test or calibration procedures, as well as definitions of terms and
+terminologies.
+2. Design specifications set out the specific design or technical characteristics of a product,
+e.g. operating room facilities or medical gas systems.
+3. Performance specifications ensure that a product meets a prescribed test, e.g. strength
+requirements, measurement accuracy, battery capacity, or maximum defibrillator energy.
+4. Management specifications set out requirements for the processes and procedures
+companies put in place, e.g. quality systems for manufacturing or environmental
+management systems.
+A standard may contain a combination of specifications. Prescriptive, design and
+performance specifications have been commonplace in standards. Management
+specifications are also rapidly gaining prominence.
+Recent years have seen the development and application of what are known as “generic
+management system standards”, where “generic” means that the standards’ requirements
+can be applied to any organization, regardless of the product it makes or the service it
+delivers, and “management system” refers to what the organization does to manage its
+processes. Two of the most widely known series of generic management system standards
+are the ISO 9000 series for managing quality systems, and the ISO 14000 series for
+environmental management systems. Wide ranging information and assistance related to
+these standards and their application is available at www.iso.org. ISO13485 and ISO13488are specific ISO quality systems standards for medical device manufacturing.
+Terms such as outcome-oriented standards, objectives standards, function-focused
+standards and result-oriented standards are also employed. Essentially, these terms indicate
+that the standards specify the objectives (ends) to be achieved while leaving the methods
+(means) to the implementers. This can minimize possible constrictive effects of standards.
+
+
+5.2 Why do we need standards?
+Standards can serve different purposes. They can:
+1. Provide reference criteria that a product, process or service must meet.
+2. Provide information that enhances safety, reliability and performance of products,
+processes and services.
+3. Assure consumers about reliability or other characteristics of goods or services provided
+in the marketplace.
+4. Give consumers more choice by allowing one firm’s products to be substituted for, or
+combined with, those of another.
+Although we take for granted the advantage of being able to order shoes or clothes
+simply by referring to a size, this is only possible because manufacturers follow some
+industrial standards in making shoes and clothes.
+In contrast, incompatibility between electrical plugs and receptacles is a prime example
+of different countries failing to follow the same standards. When North Americans want
+to use a portable computer or other electrical appliance in Europe or Asia, they can be
+frustrated to find that the plug and voltage are not compatible.
+With the world becoming a global village, the need and benefits of standardization are
+becoming more and more important internationally for manufacturing, trade and
+communications. Quality systems and other management standards can provide common
+references to the kind of process, service or management practice expected. The Internet
+functions effectively because globally agreed-upon interconnection protocols exist. Global
+communication would be very difficult without international standardization.
+Health care workers are well aware of incompatible consumables or replacement parts
+in medical devices of similar function that are made by different manufacturers (e.g. IV
+set, X-ray cassettes). The lack of available consumables and repair parts is an important
+cause of medical equipment problems that are constantly encountered in developing
+countries.
+Most medical devices are used globally. The safety, performance and consistent quality
+of medical devices is, therefore, an international public health interest. Thus, global
+harmonization of medical device standards and regulations is critical. In section 5.8, we
+shall further describe the need to use voluntary standards to provide detailed information
+in meeting regulatory requirements.
+
+
+5.3 Voluntary and mandatory standards
+Most standards are voluntary. However, a standard may be mandated by a company, professional society, industry, government or trade agreement. A standard may be called a regulation
+when it becomes mandatory. This mandate may, or may not, have a legal basis.
+When a standard is mandated by a government or an international trade agreement, it
+normally becomes legally obligatory based on regulations or a law established by the
+government or the contracts between international bodies. Countries that are considering
+making standards mandatory should take into account the potential consequences under
+international agreements on technical barriers to trade.
+
+
+Standards development process
+
+Figure 8 provides an example of the many steps
+used by standards development organizations (see
+www.iso.org for ISO’s six-step process in the
+development of international standards). In
+general, good standards have the following
+attributes:
+1. Their development has been overseen by a
+recognized body, thus ensuring that the process
+is transparent and not dominated by vested
+interests.
+2. The development process has been open to
+input from all interested parties and the
+resulting document based on consensus.
+Consensus, in a practical sense, means that
+significant agreement among the stakeholders
+is reached in the preparation of the standard,
+including steps taken to resolve all objections.
+This process implies more than the votes of a
+majority, but not necessarily unanimity.
+3. Good technical standards are based on
+consolidated results of science, technology and
+experience, and are aimed at the promotion of
+optimum community benefits.
+4. Standards do not hinder innovations and must
+be periodically reviewed to remain in tune with
+technological advances.
+5.5 Conformity assessment with standards
+There are four common industrial methods for assessing conformity to a standard.
+1. A product’s conformity to standards is commonly assessed by direct testing.
+2. A process can be assessed by audit. Certification organizations or regulatory authorities
+attest that products or processes conform to a standard by authorizing the display of
+their certification mark.
+3. The conformity to management standard by an organization is known as management
+systems registration, a relatively new term used primarily in North America. Formally
+established audit procedures are followed by certified auditors who are supported by
+technical experts of the domain under audit. Management System Registration bodies
+(Registrars) issue registration certificates to companies that meet a management standard
+such as ISO9000, or to medical device manufacturers that meet the ISO13485/ISO9001
+standards.
+Note that in North America, the term “registration” is used for an organization while
+“certification” is reserved for products. Many other countries use “certification” for
+both a product and an organization.
+4. Accreditation is used by an authoritative body to give formal recognition that an
+organization or a person is competent to carry out a specific task. For example, inEurope, Notified Bodies are notified or accredited by the relevant State Competent
+Authority to carry out conformity assessment of medical devices. In Canada, a Quality
+System Registrar needs an accreditation from Health Canada before that Registrar
+begins assessing medical device manufacturers for conformity with quality system
+standards. The International Laboratory Accreditation Cooperation (ILAC) uses
+accreditation to provide formal recognition to competent laboratories around the world.
+
+
+5.6 National and international standards systems
+A country may have many voluntary standards bodies. However, normally there is one
+official national organization that coordinates and accredits the standards development
+bodies in the country. This official national organization would have the authority to
+endorse a document as a national standard in accordance with official criteria, and it also
+represents the country in the various international standards organizations. In the United
+States, the American National Standards Institute (ANSI), a private, non-profit organization, 
+is an official national organization. In Canada, it is the Standards Council of
+Canada (SCC), a crown (government) corporation. In Europe there is a committee composed of CEN
+(Comité Européen de Normalisation), CENELEC (the European Committee
+for Electrotechnical Standardization) and ETSI (the European Telecommunication
+Standards Institute) that supercedes the various European national standards bodies that
+were in place previously.
+For developing countries, reference to a standards system not only helps medical device
+administration, it is also important for other industrial and economic developments.
+International development agencies increasingly realize that a standardized infrastructure
+is a basic requirement for the success of economic policies that will improve productivity,
+market competitiveness and export capability.
+The three major international standardization organizations are the International
+Organization for Standardization (ISO), the International Electrotechnical Commission
+(IEC), and the International Telecommunication Union (ITU). Generally, ITU covers
+telecommunications, IEC covers electrical and electronic engineering, and ISO covers the
+remainder. For information technology, risk management, quality systems and many other
+areas, joint ISO/IEC technical committees manage standardization.
+Other organizations also produce documents on international standardization. Their
+documents are usually adopted by ISO/IEC/ITU as international standards if they have
+been developed in accordance with international consensus criteria. Any grouping of five
+member countries can also propose a standard to be considered by ISO for adoption as
+an international standard.
+Useful web sites include: www.iso.ch, www.IEC.ch, and www.itu.int/ for the ISO, IEC
+and ITU respectively. From here, links to national or regional standard organizations are
+indicated.
+
+
+5.7 Identification of standards
+Standards are generally designated by an alphabetical prefix and a number. The letters
+(e.g. ISO, IEC, ANSI, CAN, EN, DIN) indicate the body that has approved them, while
+the numbers identify the specific standard and the year in which it was finalized. The
+standard reference code often gives an indication of adoption where standards are
+equivalent. For example:
+1. CAN/CSA-Z386-94 means a standard developed in 1994 by the Canadian Standards
+Association (CSA, one of four accredited Canadian standards development
+organizations) and designated by the Standards Council of Canada (SCC) as a Canadian
+national standard.
+
+
+CHAPTER 5. STANDARDS
+2. ANSI/AAMI/ISO 15223:2000 means the international standard ISO 15223 (established
+in 2000) adopted by the Association for the Advancement of Medical Instrumentations
+in the United States, which in turn is designated by the American National Standards
+Institute (ANSI) as an American national standard.
+3. UNI EN ISO 9001 indicates an Italian national standard (UNI) which is an adoption
+of a European standard (EN), which is itself an adoption of the International Standard
+ISO9001.
+
+
+5.8 Current trends in the use of standards in medical device regulations
+Although a standard can be set and mandated by an authority, the current trend is for the
+adoption of voluntary standards established by consensus from all interested parties (the
+stakeholders). The use of voluntary standards originated from the realization that while
+regulations generally address the essential safety and performance principles, manufacturers
+and users still need to know detailed specifications pertaining to specific products. The
+provision of such specifications and detailed requirements for the multitude of devices
+presents an enormous task for regulatory authorities. Fortunately, the wealth of voluntary
+standards already existing or being developed provide such precise specifications. The
+use of voluntary/consensus standards has many advantages including the following:
+1. They are normally developed by experts with access to the vast resources available in
+the professional and industrial communities.
+2. By taking advantage of such existing resources, the government can overcome its own
+limited resources for providing product specific technical requirements and
+characteristics.
+3. Conformity to standards can also be assessed by an accredited third party (such as a
+notified body in Europe), which is a well-established industrial practice around the
+world.
+4. The use of international standards facilitates harmonized regulatory processes and world
+trade, and thus improves global access to new technology.
+5. As technology advances, it is much easier to update standards than to change regulations.
+Timely development and periodic revision by expert groups make medical device
+standards effective and efficient tools for supporting health care.
+6. Manufacturers have the flexibility to choose appropriate standards or other means to
+demonstrate compliance with regulatory requirements.
+Regulatory authorities can recognize a standard, fully or partially, provided they clearly
+specify and publicize their intent. Several standards can also be recognized as a group to
+satisfy the requirements for a particular device. In some countries, the publication of
+government-recognized standards mandates product compliance.
+Medical devices intended for global use should follow international standards. For
+example, the ISO Technical Report (ISO 16142:2000) lists a number of significant
+international standards that may be suitable for demonstrating compliance with certain
+features of the essential principles of safety and performance of medical devices.
+The GHTF has issued the following recommendations regarding the recognition and
+use of standards:
+International standards are a building block for harmonized regulatory processes to
+assure the safety, quality and performance of medical devices. To achieve this purpose,
+the following principles are recommended:• Regulatory Authorities and industry should encourage and support the development
+of international standards for medical devices to demonstrate compliance with “the
+Essential Principles of Safety and Performance of Medical Devices” (GHTF document
+SG1 NO20R5 referred to hereafter as the Essential Principles).
+• Regulatory Authorities developing new medical device regulations should encourage
+the use of international standards.
+• Regulatory Authorities should provide a mechanism for recognizing international
+standards to provide manufacturers with a method of demonstrating compliance
+with the Essential Principles.
+• When an international standard is not applied or not applied in full, this is acceptable
+if an appropriate level of compliance with the Essential Principles can be
+demonstrated.
+• While it may be preferable for harmonization purposes to use international standards,
+it may be appropriate for Regulatory Authorities to accept the use of national/regional
+standards or industry standards as a means of demonstrating compliance.
+• Standards Bodies developing or revising standards for use with medical devices should
+consider the suitability of such standards for demonstrating compliance with the
+Essential Principles and to identify which of the Essential Principles they satisfy.
+• The use of standards should preferably reflect current, broadly applicable technology
+while not discouraging the use of new technologies.
+• Standards may represent the current state of the art in a technological field. However,
+not all devices, or elements of device safety and/or performance may be addressed
+by recognized standards, especially for new types of devices and emerging
+technologies.
+
+CHAPTER 6
+
+Optimizing the use of
+regulatory resources
+
+Implementing a full regulatory programme can be very expensive and demanding on
+resources. The work of the GHTF and the trend to use international standards are, in
+effect, tackling this problem by steering manufacturers more and more toward producing
+medical devices with uniform standards. The methods and procedures relating to
+governmental regulations are also converging. These developments create opportunities
+for countries to establish low-cost programmes that promote the safety and performance
+of medical devices by taking full advantage of what others have already done in this field.
+Local adoption of harmonized recommendations will facilitate international exports of
+medical devices manufactured locally.
+A good approach to setting a clear direction for all stakeholders is to establish a
+comprehensive national policy or guideline on medical device management. The
+government can subsequently bring in legislation and enforcement to suit the country’s
+conditions and needs. Five principal activities are identified:
+1. Increasing the knowledge of the medical device sector
+2. Establishing basic regulatory programmes
+3. Drafting a comprehensive policy/guideline including the recognition and use of standards
+4. Promoting compliance and cooperation
+5. Setting priorities for regulatory programme development
+
+
+6.1 Increasing knowledge of the medical device sector
+Several key activities are suggested:
+1. Access the Internet for a great deal of freely available, relevant information. A list of
+web site addresses is provided in Annex 1.
+2. Participate actively in the projects of the GHTF Task Forces in order to benefit from
+the experience of experts from other countries.
+3. Form a partnership with a country that is a member of the GHTF and has a functioning
+regulatory programme on medical devices.
+4. Make connections with national and international medical device problem coordinating
+centres.
+5. Become an active member of a regional harmonization organization (e.g. Asian
+Harmonization Working Party (AHWP); the Latin American and Caribbean regional
+group (contact the GHTF for information on regional groups).
+
+6.2 Establishing basic regulatory programmes
+As discussed previously, medical device safety and performance is multi-phased and requires
+cooperation among all stakeholders. It is essential to identify the stakeholders in each
+country by maintaining a list of manufacturers, importers, distributors, retailers,
+institutional users (both public and private health care facilities), lay users (estimated
+from the number of home-use medical device vendors), and concerned citizens groups.
+A basic regulatory programme should also include other important activities: holding
+education/consultation sessions with the stakeholders to discuss the issues; creating an
+atmosphere conducive to mutual trust and open discussions; and, inviting input from the
+stakeholders. The government should not overlook the willingness of stakeholders to
+help suggest solutions for issues that affect them. Such sessions will help to share
+understanding of issues affecting the safety and performance of medical devices, and should
+lead to the development of a policy/guideline that sets a direction for everyone (see Section
+6.3). Apart from the rich source of practical suggestions that stakeholders can offer, they
+are more likely to comply with any requirements that they have participated in devising.
+If there are significant numbers of medical devices being sold or used in the country,
+then two basic programmes should be set up as soon as is possible: (1) Basic legislation;
+(2) Problem sharing.
+
+
+6.2.1 Basic legislation
+If the government has not already passed legislation, this should be done:
+a. To prohibit misleading or fraudulent advertising of medical devices,
+Advertising has a powerful influence on people. A prohibition on the misleading or
+fraudulent advertisement of health devices should be an essential legislation. This is
+particularly important since, as people are becoming more health conscious, the
+development of home-use medical devices is rapidly expanding.
+Advertising control does not have to place demands on resources. For example, in
+Canada, even though the prohibition of misleading or fraudulent advertising is legislated,
+the Government does not routinely screen device advertising. The Government, however,
+will respond to inquiries or complaints made by the public or health care professionals.
+If the advertiser cannot convincingly prove their claims, the government can take action
+to prohibit the advertisement.
+b. To empower the government to stop the sale of a device and issue alerts to the public
+under urgent hazardous conditions. Again, this is essential legislation in case the
+manufacturer or the vendor has not taken adequate action to ensure the safety of their
+product.
+
+
+6.2.2 Sharing problem reports
+The government should establish a national coordinating agency to receive and manage
+problem reports from all sources. This information can then be shared with other users in
+the country and in other countries as well. The objective is to improve the protection of
+the health and safety of patients, users and others by disseminating information, which
+can prevent repetition of adverse events.
+If the government has no funding to set up such an agency, it should encourage the
+users, hospital technicians, clinical engineers and vendors to form a network. There is a
+high possibility that they will support such a programme, since it is in their own selfinterest. Hospitals and universities are likely to have the resources and willingness to
+
+
+CHAPTER 6. OPTIMIZING THE USE OF REGULATORY RESOURCES
+coordinate such activities. An advisory panel of experts and/or scientific testing laboratories
+in these institutions would be very useful for investigating problems. For example, they
+could confirm bacterial contamination, or investigate possible electrical hazards.
+
+
+6.3 Drafting a comprehensive policy or guideline on
+medical device management
+Going through the exercise of drafting a policy or guideline will clarify, for both the
+government and the other stakeholders, what the issues are and how to address them.
+The resulting policy/guideline will also set a direction for how to manage potential
+problems. Moreover, it will provide a foundation for shared understanding and shared
+responsibility of all the concerned parties (see section 2.6). After a policy or guideline on
+medical device management is established, its implementation and integration into national
+legislation will depend on national context and resources available.
+
+
+6.3.1 Advantages of a national policy
+Effective national policies have a legislative base. Although this is regrettably not always
+the case, they still serve as a framework of rules for decision-making and guidance. In
+some countries, a national policy may automatically have legal recognition. Some of the
+advantages of a national policy are as follows:
+1. it obligates an examination of the country-wide conditions for holistic planning;
+2. it is written in non-legal terms, hence is easier for lay people to understand;
+3. it can provide more explanatory information than a regulatory document;
+4. a guideline can be written as a policy supplement to include more detailed information
+on means and procedures to achieve policy objectives;
+5. policies and guidelines do not require a legal and lengthy process to modify them.
+The policy on medical device management can also include instructions for the role of
+each stakeholder (see section 2.5). For example, the role of the user can be expanded to
+include issues such as the care and maintenance of devices, introducing an integrated
+approach to medical device management.
+Depending on the culture and legal system, a country may find it more effective to
+legislate all key requirements of the policy. Some countries may prefer to legislate the
+items gradually as the need is demonstrated and as resources for monitoring and enforcement become available (see section 6.5). Countries that have decided to accept devices
+that are approved by other countries can simplify the pre-market control regulations
+(section 6.3.3) by including this in their legislation.
+
+
+6.3.2 Classification of medical devices2
+The GHTF document SG1 N015R18 has been drafted to provide a rule-based system in
+classifying medical devices (see section 3.4.1). It contains 16 rules and decision trees to
+demonstrate how these rules should be used to classify specific devices. The document
+will be of value to countries developing or amending regulations.
+Regulatory authorities that are developing new classification schemes or amending
+existing ones are encouraged to consider the adoption of this system, as this will help to
+reduce the diversity of systems worldwide and facilitate the process of harmonization.
+
+
+See Glossary for a detailed description of the term “medical device” which may be useful in the formulation
+of a national policy
+
+MEDICAL DEVICE REGULATIONS
+6.3.3 Medical device product control
+Pre-market approval is one of the most important aspects of any comprehensive policy.
+The difficulty of establishing a local pre-market review team is not just financial but also
+depends on whether specialized scientific and clinical expertise is available in the country.
+However, with the work of the GHTF and the ability to look at approval decisions in
+other countries, it is now feasible for many countries to avoid the expense of a local premarket review team.
+Global statistics on medical device manufacturers reveal that the US, Japan and EU
+countries manufacture approximately 85% of the medical devices in the world (see Figure 9
+below). They already have comprehensive regulatory systems in place that follow the
+“Essential Principles of Safety and Performance of Medical Devices” recommended by
+the GHTF. This is a positive development for the other countries of the world that import
+most of their medical devices.
+As an alternative to a local pre-market review team, a Figure 9. Global statistics on medical
+government can adopt a policy of accepting devices that are
+device production (2002)
+manufactured in compliance with the regulations of another
+country. The choices include, for example, devices with an
+OTHER
+17%
+Australian, Canadian or Japanese License, devices with a
+European “CE” mark, or devices that have been granted
+marketing clearance by the US-FDA. In this way the citizens of
+JAPAN
+14%
+the importing country will be assured of the same risk exposure
+USA
+as the citizens of the exporting countries. Whether to grant local
+43%
+marketing rights to that device remains a local government
+decision, which may rest on local socioeconomic considerations
+and technology assessment information.
+EU
+Since it may be necessary to verify the authenticity of
+26%
+regulatory compliance, device suppliers can be asked to obtain
+an “export certificate”, the nominal cost of which may be passed
+on to the importer. However, since export certificates can differ in purpose and format, it
+is important to be cautious when relying on them (section 6.6 discusses this issue).
+A similar approach can be used for local medical device manufacturers. The government
+can require that local manufacturers make submissions for compliance acceptance to a
+country that has an accepted pre-market review team. In fact, this is what the manufacturers
+have to do anyway if they want to sell internationally. If a country has competent private
+organizations, the government has the option to authorize such organizations to perform
+the pre-market assessment, as is now carried out by the European Union.
+The Quality System certification of local manufacturing facilities is usually delegated
+to authorized third party agents (such as the notified bodies in the EU, or Quality Systems
+Registrars in Australia and Canada). In the case of the United States, the FDA, following
+the completion of an inspection, can issue a letter to the firm denoting their compliance
+status. Currently the cost of inspection is borne by the FDA, and is performed, almost
+without exception, by FDA employees.
+In avoiding the expense and effort of a pre-market review team, a government can
+concentrate on implementing vendor and device registration and surveillance programmes
+for devices in use.
+
+
+6.3.4 Product representation control
+Product representation is controlled through labelling during the pre-market stage and
+advertising of the product during the on-market stage. Labelling requirements include
+identification of the device, instructions for use, as well as safety- and performance-related
+27
+CHAPTER 6. OPTIMIZING THE USE OF REGULATORY RESOURCES
+
+information. A harmonized format for labelling is recommended by the GHTF (SG1
+N009R6).
+Advertising control is an important tool for ensuring that the public is protected from
+misleading and fraudulent claims as described in section 6.2.1.
+
+
+6.3.5 Vendor establishment control
+Vendor establishment control allows the government to be informed of which
+establishments are selling what devices. Its main purpose is to establish contact with
+vendors in case of adverse events and also to inform the local vendors of their responsibility
+for after-sale obligations. In most countries, only one level of in-country vendor is required
+to be registered for control. For example, if the importer or the distributor were already
+registered, then it would not be necessary to register the retailers of the same device.
+There are two general ways to accomplish vendor establishment control: (1) Sales
+notification, and (2) establishment license or registration.
+Sales notification is generally a less effective method. Vendors are automatically
+permitted to sell medical devices provided that they notify the regulatory authority, either
+before or after the sale, as required by the authority.
+Establishment License or Registration, on the other hand, requires that the vendor
+either obtains a license or is registered before they are allowed to sell medical devices.
+This method has several advantages.
+• It ensures that the government has a record of the vendor.
+• It enables the government to place emphasis on after-sale obligations.
+• It provides a means for the government to enforce requirements; for example, it will
+be able to suspend a license if the vendor does not fulfil after-sale responsibilities.
+• It allows the government to require an annual renewal of the license or registration
+in order to maintain updated information on the vendors.
+Since the latter method places considerable demand on the government, the government
+can impose a fee on the licensing or registration process. This fee will help defray the cost
+of administration. The fee may also help to strengthen the vendor’s efforts to fulfil their
+obligations so that they avoid losing the license that they have paid for.
+Experience from Canada reveals that an establishment licence is a more effective means
+than sales notification for keeping records of the vendors (see www.hc-sc.gc.ca/hpfb-dgpsa/
+tpd-dpt/ for Canadian guidance documents on establishment licensing).
+
+
+6.3.6 The control of home-use, refurbished, and donated devices
+Home-use devices
+A recent development in the medical device market is the rapid increase in the number
+and variety of home-use medical devices. This results in a shift from institution-based
+professional users of medical devices to their employment by lay users. Here, education
+of the consumer is key to safety and performance.
+
+
+Refurbished devices
+Formerly, used or refurbished medical devices were traded to developing countries, mainly
+by third parties, and the vendors were often opportunistic merchants with no technical
+expertise. Many recipient countries had very bad experiences with used equipment because
+there were no after-sale technical support or spare parts. By 2002, at least five countries
+had imposed a total ban on the import of used equipment and 17 others have partial bans
+depending on the type of equipment.
+
+The situation has changed rapidly over the past 10 years due to shrinking health care
+budgets and rapid technological innovations. Refurbished medical equipment is increasingly
+being used within the United States and other industrialized countries. As larger hospitals
+purchase the latest models, they trade in their superseded equipment which is often still in
+good condition. This equipment can remain suitable for a wide range of applications,
+both for city and rural hospitals, and large global medical device manufacturers are now
+participating in the business of refurbishment.
+As a result of the increasing use of refurbished equipment in industrialized countries,
+the question of regulations is raised. Work is under way to define the scope of refurbished
+equipment and the different requirements for their regulation.
+Irrespective of developments taking place in the regulation of refurbished equipment,
+it is important for developing countries to ensure that companies supplying refurbished
+equipment will fulfil after-sale obligations including the continued availability of technical
+support and maintenance services.
+
+
+Donated devices
+Donated equipment can be of great value to health facilities with limited resources, but
+donations are not always useful, nor totally “free”. At the same time, many developing
+countries are increasingly dependent on donor assistance to meet their equipment needs.
+Failing international regulations, WHO has produced a set of guidelines to assist
+governments and organizations dealing with equipment donation. The four underlying
+principles of good donation practice can be summarized as follows:
+i)
+
+
+health care equipment donations should benefit the recipient, and should be based on a
+needs assessment and analysis of the environment in which the donations will be placed
+
+
+ii) donations should be given with due respect for the wishes and authority of the recipient
+and according to a pre-agreed plan
+iii) there should be no double standard in quality: if an item is unacceptable in the donor
+country, it is also unacceptable as a donation
+iv) there should be effective communication between the donor and the recipient: all
+donations should respond to an expressed need by the recipient and should never
+arrive unannounced.
+
+
+6.3.7 The re-use of medical devices that are labelled “for single use”
+Special attention must be exercised in any attempt to re-use devices that are labelled “for
+single use”. The following points provide a glimpse of this complex issue.
+1. Devices labelled “for single use” are designed with the intention by manufacturers that
+they will not be re-used. Therefore:
+a. Some devices may not be truly taken apart for proper cleaning.
+b. Single use devices may not be re-sterilized properly.
+c. The mechanical integrity and/or functionality of some single use devices may not
+stand up to rigorous reprocessing.
+d. It may never have been determined how cleaning chemicals or sterilizing agents
+affect the re-processed devices or the patient.
+2. Because of materials used or the design of the device, some models within a particular
+type of device may be suitable for safe reprocessing while others may not. There may
+not be evidence of how many times a device may be safely reprocessed.
+
+
+CHAPTER 6. OPTIMIZING THE USE OF REGULATORY RESOURCES
+3. Some devices should never be re-used. For example, single use injection syringes because
+the risk of infection is very high. Field data from developing countries revealed that the
+re-use of injection syringes/needles is a major source of HIV and hepatitis infections.
+In considering the reprocessing and the re-use of a device labelled “for single use”, one
+should first obtain thorough knowledge of possible hazards and assess the impact on
+patients against the potential cost savings. Are there adequate facilities and trained persons
+to do the reprocessing? Some possible hazards may not even be foreseen. The ethical
+questions and the potential consequences of patient infection must be considered, along
+with the question of legal responsibility for reprocessing and re-use of single use devices.
+In the United States, FDA subjects the reprocessor of a single use device to the same
+regulatory requirements as those for the original manufacturer of the device.
+The resources in Annex 1 provide a list of references on home-use, refurbished and
+donated devices.
+
+
+6.3.8 Post-market surveillance
+In addition to the basic problem-sharing centre described in section 6.2.2, a complete
+programme of post-market surveillance should be described in the policy/guideline. This
+programme should include the major components of after-sale obligations for the vendor,
+including:
+• implant registration: facilitates notifying the patient of pertinent post-implant
+information
+• distribution record: for complete and rapid removal of devices in case of problems
+• recall procedures: in case of device recall, the procedures are in place and can be
+implemented
+• mandatory reporting: reporting of any adverse events of devices in use
+• complaint handling: procedures and records of reported problems relating to safety or
+performance
+It is important to note the following points:
+1. An incident with a medical device is an unusual (or unexpected) event associated with
+its use. Not all incidents lead to adverse events, but all incidents should be investigated
+to identify product or use problems that can or do result in permanent impairment or
+injury to the patient or user. The problems should then be addressed so they will not
+recur. Products can contribute to adverse outcomes by their complex nature or labelling,
+unique features and functions, or failure to meet manufacturing specifications. Users
+can contribute to adverse outcomes by failure to follow labelled instructions or
+indications for use, lack of training, misapplication of the product, and failure to provide
+routine maintenance on the product. Patients can contribute to adverse outcomes by
+not following health care guidelines appropriate to the product, failure to get regular
+medical and surgical monitoring and assessments, and failure to report product
+problems.
+Even the environment can contribute to adverse outcomes: low lighting at night, fewer
+health care workers available after regular working hours, no after-hours vendor support
+to resolve product questions, etc. All of these factors are important to consider in
+determining why an adverse event occurs and how it might be prevented in the future.
+Care should be taken not to discourage reporting by assigning culpability. Problem
+resolution and prevention remain the ultimate goals and are fundamental in assuring
+
+
+MEDICAL DEVICE REGULATIONS
+safety for all. WHO is committed to patient safety, which is an Organization-wide
+initiative supported by World Health Assembly Resolution WHA 55.18.
+2. Most of the obligatory surveillance activities rest with the vendor, but the user is the
+ultimate monitor of device performance and reporter of problems encountered. The
+surveillance programme should be promoted and developed to encourage cooperation
+among all stakeholders. Section 6.4 suggests how this can be accomplished.
+3. The quality of problem reports improves when users possess some technical knowledge
+of the devices. Both clinical engineers and biomedical equipment technicians in health
+care facilities can be very helpful in this task. If the problem report is to be added to the
+problem databank for trend and other statistical analyses, the report must follow certain
+standards for it to be useful. Governments should adopt recommended formats and
+procedures (see documents of the GHTF Study Group 2).
+4. The chance of discovering device problems increases with the number of devices in use.
+Therefore, it is useful to be connected to an international database, which will maximize
+the effectiveness of post-market surveillance.
+5. Finally, if user errors are frequent, then a user qualification programme that is controlled
+through a professional association can be a useful tool that will not make undue demands
+on government resources. Similarly, as a proactive measure, this tool can be implemented
+for devices of high-risk classes.
+
+
+6.3.9 Recognition and use of established national or international standards
+The use of voluntary standards has been described in the preceding section. This practice
+can reduce cost, simplify the regulatory process and promote international harmonization.
+A national regulatory agency will need to establish a procedure for official recognition
+of voluntary standards. This process of recognition may vary from country to country. If
+there is no existing national standards body, an organization may be created/designated
+by the competent authority to research and recommend official recognition of standards.
+If there is already a national standards body, they can collaborate with the medical device
+regulatory authority to agree upon and adopt standards for recognition. In general,
+appropriate international standards should receive priority for recognition. The policy of
+recognition and the standards that are recognized should be made clear to all stakeholders.
+Examples of such policies and lists of recognized standards can be obtained from the
+following web-sites:
+European Union: www.newapproach.org
+United States: www.fda.gov/cdrh/modact/fr0225ap.pdf
+Canada: www.hc-sc.gc.ca/hpfb-dgpsa/tpd-dpt
+
+
+6.4 Promoting compliance and cooperation
+Promotional activity is a powerful tool that encourages compliance and reduces the burden
+of enforcement. Often, bad practices are the results of not knowing better alternatives. If
+the regulatory authority properly disseminates the policy to the stakeholders and it is
+understood, it has already made the most important step towards the harmonized
+compliance of all the parties concerned. User/public education is crucial for guarding
+against misuse and misrepresentation of medical devices.
+We should remember that medical device users, the patients and the public, are people
+for whom medical devices are designed (the customers). Since they are the people upon
+which device safety and performance will directly impact, they can readily become great
+
+
+CHAPTER 6. OPTIMIZING THE USE OF REGULATORY RESOURCES
+allies to the government in applying “customer pressure” for compliance. Governments
+should appeal to the customers’ own self-interests to participate in the system.
+Manufacturers and vendors, for their part, are currently embarking on customer-focused
+missions: they want to provide quality products and quality services to their customers.
+This is positive. Governments can capitalize on such developments by encouraging
+voluntary cooperation. This will result in a low-cost programme that ensures the safety
+and performance of medical devices.
+Participation in regional cooperation is recommended as a means for regulator-toregulator interaction facilitating increased learning and sharing of ideas to develop
+regulations with the minimum cost and maximized benefit. WHO’s regional and country
+infrastructure puts it in a good position to support such exchanges.
+
+
+6.5 Setting priorities for regulatory programme development
+Regulatory programmes for medical devices can be developed in stages according to a
+country’s needs as they are stated in the national policy and identified in consultation
+with all stakeholders. In countries where resources are limited, this guide recommends
+the initial implementation of the basic programmes that are described in section 6.2. As
+more resources become available, programme expansion can follow the ladder suggested
+in Figure 10. In follow-up to this Global Overview of Medical Device Regulations, there
+is a need to provide countries with a model programme on which they can establish their
+own, appropriate regulatory system, based on international experience.
+
+
+The means to determine device acceptance criteria are described in section 6.3.3.
+Preventing sub-standard devices from appearing in the market place should be the first
+priority for every government. For most countries, this will mean an effective import
+control that will ensure that the acceptance criteria specified in the policy are strictly
+enforced. It is critical that medical device regulatory authorities cooperate closely with
+the customs department so that the customs process is efficient enough to prevent
+unnecessary holding of acceptable goods needed for health care. Here, customs enforcement
+officers need a clear policy, and sufficient education and training. They should be well
+informed of the medical device acceptance criteria.
+
+High priority should be given to establishment registration, device listing and the
+adoption of a medical device nomenclature system. This will enable the government to
+monitor the kind of devices that are used or that are available on the local market. In case
+of a medical device alert or recall, it is essential to know where all similar devices are in
+use. The distribution records are the key to this identification. It is the vendor’s responsibility
+to keep distribution records, and it should be a government priority to register the vendor
+establishments and the medical devices they sell. The government can also make use of
+the advantages described in section 6.3.5 to make this programme self-financing.
+The recall of a device frequently indicates a high potential for serious problems. Random
+inspection during actual recall incidents would verify the true efficiency and effectiveness
+of the procedures and ensure that vendors fulfil their responsibilities.
+Mandatory problem reporting requires that serious problems are reported and relayed
+to other users for preventive purposes. However, there seems to be a concern among users
+that the information given in medical device problem reporting can become a personal
+legal liability if it turns out the problem was actually caused by the incorrect use of the
+device. This means there is a general reluctance to report problems associated with the
+use of medical devices even where such reporting is mandatory by law, e.g. in the United
+States and some countries in Europe. Regulatory authorities both in Europe and North
+America are experiencing a lack of cooperation from device users. Therefore, the
+government should address this issue with a problem solving rather than “finger pointing”
+approach. Above all, it is critical that the dissemination of information to the public must
+be handled with great discretion so that it does not unduly damage the reputation of a
+health care professional, the health care institution or the company/manufacturer. The
+GHTF has a guidance document (SG2 N8R4) that provides advice in such delicate cases.
+The following quotations from this document lists the concerns that should be considered
+before releasing information nationally:
+1. is the information collected, or received, of relevance nationally?
+2. if yes, for whom? – other authorities/manufacturer/distributor/user/hospitals/patients/
+academics/the public?
+3. can the persons, natural or legal, who should have the information be traced and located
+and given information directly?
+4. will information have to be released to the public in order to reach the persons who
+need it, but whom cannot be reached directly?
+5. does the public need this information?
+6. is the information of use, or of benefit, to the public at large?
+It is important for regulatory authorities to communicate with other countries to keep
+themselves informed about incidents that have not occurred locally. WHO follows Standard
+Operating Procedures for the issuing of alerts among Member States, and may also work
+with the GHTF to assist in the appropriate dissemination of information to countries.
+Risk management becomes more effective with a larger population database. There will
+be a need to exchange information with other regulatory authorities, and this should be
+done in a meaningful and systematic manner. The GHTF guidance document SG2 N20R10
+provides advice on how to determine if and when a regulatory authority should consider
+sharing information globally.
+Complaints are an early indication of potential problems, and they should not be ignored.
+Proper investigation may lead to the discovery of more serious problems. However,
+interpreting the degree of urgency of a complaint may demand considerable technicalknowledge and experience. It is essential to involve the manufacturer/vendor and the user
+in the investigation. User errors can be minimized through design incorporating human
+factor principles and user experience can help manufacturers to improve product safety.
+For local production, a government can take advantage of the quality system approach
+(see sections 3.4.4 and 6.3.3). The key is to ensure that the quality system registrars or
+notified bodies are accredited by national competent authorities (see section 5.5) and that
+applicable quality standards are used for the classified medical devices.
+
+
+6.6 Cautions in interpreting medical device “export certificates”
+Importers should be well aware of the fact that there are different kinds of certificates
+that testify the characteristics of medical devices being exported. For example, Canada
+currently has two kinds of certificates applicable to medical devices; Japan has three, and
+the United States has four. These are briefly described below:
+
+
+Canada
+1. The Canadian Export Certificate for Medical Devices. This certificate allows vendors to
+export medical devices that are not manufactured for sale or consumption in Canada.
+This certificate has legal status (Section 37 of the Food and Drug Act and Section 89 of
+the Medical Devices Regulations). (The United States issues analogous certificates under
+Sections 801 and 802 of the Federal Food, Drug and Cosmetic Act, see below)
+2. The Canadian Manufacturer’s Certificate for Medical Devices. This certificate requires
+the manufacturers to make the following declaration before a commissioner or a notary:
+a. Each device is manufactured, produced and sold in Canada in accordance with the
+requirements of Canada’s Food and Drug Act and Regulations thereunder; and
+b. tests have been conducted in respect of each device and that the tests indicate that
+the nature of the benefits claimed to be obtainable through the use of each device
+and the performance characteristics of each device are justified.
+This declaration is submitted to Health Canada for verification and counter-signature
+for compliance.
+
+
+Japan
+1. The Evaluation and Licensing Division (MHLW) can issue “Export Certificate (FSC)”
+for a medical device that has been approved by the MHLW. This is the certificate to
+confirm that the product was manufactured under the PAL requirement (GMP) and
+has the approval to be sold in Japan. (Yakuhatsu #418/422)
+2. There are two other certificates: one is to certify “Approved Manufacturer” by the
+MHLW; the other is to certify that the product was manufactured under the PAL
+requirement (GMP) in Japan.
+These certificates can be requested by the importing country.
+
+
+The United States of America
+1. The United States “Export Certificate” Section 801(e)(2) grants permission for the export
+of unapproved medical devices which are not equivalent to devices cleared for marketing
+in the USA, after the firm has submitted to the FDA proof of safety of the device and
+obtained a letter from the foreign government granting permission to import the device.
+2. The United States “Certificate of Exportability” Section 801(e)(1) certifies the export of
+devices that are not approved for use within the USA, distribution of which would beconsidered adulterated or misbranded under U.S. law because they lack marketing
+permission, U.S. labelling, and/or are not being manufactured under QS Regulation.
+These devices must be equivalent in design and intended use to class I and II medical
+devices already granted marketing permission by FDA, labelled for export, and must
+be in compliance with the specification of the purchaser and the laws of the foreign
+country.
+3. The United States “Certificate of Exportability” Section 802 certifies the export of
+unapproved devices which are manufactured in compliance with the requirements of
+the QS Regulation or equivalent FDA recognized international standard and which are
+authorized for marketing in a “tier one” country. Tier one countries included those in
+the European Union, the European Economic Area, Australia, Canada, Israel, Japan,
+New Zealand and South Africa.
+4. The United States “Certificate to Foreign Government” is issued for devices that are legally
+marketed in the U.S. and in compliance with the Food, Drug & Cosmetic Act.
+
+
+The World Health Organization
+The widely used WHO Export Certificate at present applies only to pharmaceutical products.
+
+
+Comments
+The Canadian Export Certificate and the United States certificates all impose the condition
+that the exported device does not contravene any known requirement of the laws of the
+importing country. However, this does not provide protections for countries that do not
+have regulations or a national policy on medical device acceptance. Countries are therefore
+urged to use these guidelines to develop or reinforce their national medical device regulatory
+authority so that their populations are protected against unsafe products.
+
+CHAPTER 7
+
+Priorities on the international agenda
+
+In order to minimize substandard medical devices in global trade, there is a need to establish
+a uniform format for different countries to certify that the medical device being exported
+complies with their domestic regulatory requirements.
+This certification process will greatly help importing countries to control medical devices.
+One option for generating this certificate could be to follow the same process as that used
+to develop the WHO Export Certificate for Pharmaceutical Products, with detailed item
+descriptions tailored to medical devices.
+Post-market surveillance/vigilance is essential to ensure that medical devices in use
+continue to be safe and effective. Because of the worldwide increase in the use of medical
+devices, the ability to access coordinated and analysed global post-market surveillance/
+vigilance data would greatly enhance medical device safety. Participation and reporting
+criteria may be based on the recommendations of the GHTF Study Group 2 (see Annex 2).
+International agencies, and the governments and industries of major medical device
+producing countries could consider supporting the establishment of this global shared
+database, under the leadership of an international body.
+
+
+The Global Harmonization Task Force: www.ghtf.org
+It provides general information and reports from the four study groups. It also offers
+an extensive list of web sites of countries around the world.
+Australia: Therapeutic Goods Administration: www.health.gov.au/tga
+Canada: Health Canada site: www.hc-sc.gc.ca
+All medical devices guidance documents and medical device related information can be
+obtained from www.hc-sc.gc.ca/hpfb-dgpsa/tpd-dpt/
+European Union: http://europa.eu.int/comm/enterprise/medical_devices/index.htm
+EU Member States with a different linguistic regime:
+France: www.afssaps.sante.fr/
+Germany: www.bfarm.de/de/index.php
+Spain: www.msc.es/farmacia/home.htm
+Japan: Ministry of Health, Labor and Welfare: www.mhlw.go.jp/english/index.html
+For publications: www.mac.doc.gov/japan/source/menu/medpharm/medpub.html
+United Kingdom: www.Medical-devices.gov.uk
+United States of America: Food and Drug Administration: www.fda.gov/default.htm
+Corresponding medical device-related information site: www.fda.gov/cdrh/index.html.
+(this site also offers “Device Advice” – www.fda.gov/cdrh/devadvice/ – a self-service
+site for medical device and radiation product information)
+The FDA enforcement report site: www.fda.gov/opacom/Enforce.html also offers useful
+information for import control.
+
+
+Some addresses to obtain Medical Device Incident Reporting Forms
+International
+Adverse event and Product Defect Reporting Systems
+ECRI (formerly the Emergency Care Research Institute)
+WHO Collaborating Centre
+www.ecri.org
+E-mail: accidents@ecri.org
+Tel: +1 610 825 6000, ext 5223
+
+United Kingdom
+Adverse Incident Centre
+Medicines & Healthcare Products Regulatory Agency
+Hannibal House, Elephant & Castle
+London SE1 6TQ
+Tel hotline: +44 20 7972 8080
+Fax: +44 20 7972 8109
+E-mail: aic@mhra.gsi. gov.uk
+
+
+Australia
+Medical Device Problems and Adverse Events
+Therapeutic Goods Administration
+PO Box 100
+Woden ACT 2606
+Tel: +61 (02) 6232 8713
+Fax: +61 (02) 6232 8555
+E-mail: iris@health.gov.au
+www.health.gov.au/tga/docs/html/therprob.htm
+
+
+Reuse, refurbished, home-use, donated, and maintenance of medical devices
+Reuse of medical devices that are labelled single-use
+Enforcement Priorities for Single-Use Devices Reprocessed by Third Parties and Hospitals
+August 14, 2000 www.fda.gov/cdrh/reuse/1168.html
+Frequently-Asked-Questions about the Reprocessing and Reuse of Single-Use Devices by
+Third Party and Hospital Reprocessors: Food and Drug Administration (USA)
+www.fda.gov/cdrh/reuse/reuse-faq.html
+Special Report: Reuse of Single-Use Medical Devices: Making Informed Decisions: ECRI
+(USA), info@ecri.org
+Reuse of Single-Use Medical Devices in Canadian Acute-Care HealthCare Facilities:
+Canadian Healthcare Association, http://www.hc-sc.gc.ca/
+Single-use Medical Devices: Implications and Consequences of Reuse: Medicines and
+Healthcare Products Regulatory Agency (UK) www.medical-devices.gov.uk/
+Patients in Danger: The Reuse of Single-Use Medical Devices in Europe: European
+Confederation of Medical Devices Associations, Belgium: www.eucomed.be/
+Reuse of Single Use Devices, 1999 Conference Proceedings and Tapes: Association for the
+Advancement of Medical Instrumentation (USA) www.aami.org/resources/reuse/
+index.html
+
+
+medical device can range from a simple wooden tongue
+depressor or stethoscope to the most sophisticated implants
+or medical imaging devices. In general, a medical device is an
+instrument, apparatus, or machine used to prevent, diagnose or
+treat disease. It also serves to detect, measure, restore or modify
+the structure or function of the body for a given health purpose.
+Typically a medical device achieves its purpose without entering
+metabolic pathways.
+Optimum safety and performance require cooperation among all
+involved in the life span of a medical device: the government, the
+manufacturer, the importer/vendor, the user and the public – each
+has a specific role to play in this risk management.
+Many countries procure medical devices that may be sub-standard.
+Some manufacturers of medical devices may also be unaware of
+minimum standards. Governments that are unable to carry out
+pre-market review, either for imported devices or those manufactured locally, could assure regulatory compliance by taking
+advantage of the work of major device manufacturing countries.
+A priority in local regulatory development should be the establishment of vendor and product registrations.
+Education and training of users, and the continued assessment
+of medical devices in use is as important as product control. It is
+critical to have access to a system for informing and collaborating
+with the manufacturer, vendor, all users, the public and relevant
+international organizations of hazards/issues related to medical
+devices.
+
+
+WORDS OF ADVICE
+■ Collaborate with all stakeholders to establish a clear and
+comprehensive national policy on medical devices
+■ Adopt recommendations on global harmonization for
+regulatory requirements and procedures
+■ Ensure that classified medical devices are manufactured
+in conformity with applicable quality system standards
+■ Link to networks that monitor medical devices and
+participate in post-market surveillance and medical device
+alert issues
+
+
+✓Checklist
+■
+Government
+■ Commitment and support
+■ Ensure mechanisms for recognition of
+and conformity assessment with
+national/international standards
+■ Develop and implement national
+policies
+■ Ensure the safety and performance of
+medical devices in use
+■ Link to international alert system
+■ Establish regulatory authority on medical
+devices for:
+● Basic acceptance criteria: requirements on safety and performance,
+quality systems, packaging and
+labelling
+● Import control
+● Local production control
+● Vendor and product registration
+● Post-market surveillance
+● User education
+● Clear policy on donations
+● Regular review of policy/standards
+
+
+Manufacturers
+■ Comply with recommendations on
+global harmonization for regulatory
+requirements and procedures
+■ Undergo testing or clinical trials to
+substantiate intended benefit
+■ Ensure labelling and packaging
+requirements
+
+
+Importer/vendor
+■ Ensure product complies with regulatory
+requirements
+■ Avoid making misleading claims
+■ Maintain device distribution records
+■ Provide user support
+■ Fulfil all after-sales obligations
+
+
+User
+■ Secure and follow adequate training
+■ Monitor safety and performance of
+device on continuous basis
+■ Ensure regular calibration and
+maintenance
+■ Share information and problems
+■ Assure appropriate waste disposal
+
+
+Public
+■ Become informed and insist on safe,
+effective, quality, affordable and
+sustainable products
+
+KEY ELEMENTS
+National medical device regulatory or monitoring programme
+The following diagram provides an overview of the different phases in the life span of a medical device. The phases
+shown may overlap or interact but each can affect safety. Since most developing countries import medical devices,
+priority should be given to vendor and product registrations, user training and post-market surveillance of devices (correct
+use, problem alerts and recalls). Although in-country pre-market product control requires resources and expertise,
+governments could benefit from the work of major medical device manufacturing countries to assure regulatory compliance.
+International sharing of information on alert systems for medical devices is essential as risk management is more effective
+with a large population database.
+
+
+Close cooperation is needed with the
+manufacturer/importer of the
+product. Important activities include:
+
+
+A national database on vendors and
+products is essential for effective
+control of medical devices. Important activities include:
+
+
+Correct use is the ultimate determinant of safety and effectiveness.
+Important activities include:
+
+
+● Vendor registration
+
+● Regular maintenance of devices in
+
+● Product registration
+
+accordance with operation and
+service manuals
+● User networks and medical device
+vigilance systems to facilitate alert
+notification
+● Adequate management and
+disposal of discarded devices
+
+● Collaboration on acceptance
+
+criteria (see checklist overleaf)
+● Collaboration on international
+quality systems and productspecific standards
+● Agreement on systems for
+conformity assessments
+● Clinical trials/testing
+● Appropriate and effective customs
+control system on imported
+medical devices
+
+
+● Prohibition of fraudulent/
+
+
+misleading advertising
+● After sales obligations, including:
+
+— distribution records
+— complaint handling
+— problem reporting
+— recall procedures
+
+
+● Training of user before use
+
+* includes testing and clinical trials
+
+RECOGNITION AND USE OF NATIONAL AND INTERNATIONAL STANDARDS
+Regulations address essential safety and performance principles (see Global Harmonization Task Force web site, Doc
+SG1-N020R5). Detailed technical requirements and characteristics are provided by voluntary product standards developed
+by national and international expert groups (see ISO TR 16142:1999). The international quality systems standard for
+medical device manufacturing is ISO 13485. Governments should have a procedure to recognize and publicize standards
+as a guide for all stakeholders. While certain technical standards can be specified by specialists, in general good standards
+have the following attributes:
+■ their development has been overseen by a recognized body ensuring that the process is transparent and not dominated
+by untoward interests.
+■ the development process has been open to input from all interested parties and the resulting document based on
+consensus. Consensus, in a practical sense, means that significant agreement is reached in the preparation of a standard,
+including steps taken to resolve all objections. This implies more than a majority, but not necessarily unanimity.
+■ good technical standards are based on consolidated results in science, technology and experience, and aimed at the
+promotion of optimum community benefits.
+■ standards do not hinder innovation and must be periodically reviewed to remain in tune with technological advances.
+
+
+Devices intended for global use should follow international standards (ISO, IEC). A standard can be recognized fully or
+partially, provided this is clearly specified. Several standards can also be recognized to satisfy the require-ments of a
+particular device. Conformity of a device can be assessed by accredited third party agencies, such as a notified body. In
+some countries, the publication of government recognized standards mandates product compliance.
+
