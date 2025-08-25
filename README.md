@@ -1,8 +1,8 @@
-# MedTech Regulatory AI Companion: A RAG-based Gap Analysis Tool
+# MedTech Regulatory AI Companion: A RAG-based Gap Tool
 
-This repository contains a series of projects demonstrating the development of an AI-powered assistant to navigate the complex landscape of Medical Device regulations. The primary goal is to showcase how Retrieval-Augmented Generation (RAG) can be used to perform a gap analysis between the old Medical Device Directive (MDD 93/42/EEC) and the new, stricter Medical Device Regulation (MDR 2017/745).
+This repository contains a series of projects demonstrating the development of an AI-powered assistant to navigate the complex landscape of Medical Device regulations. The primary goal is to showcase how Retrieval-Augmented Generation (RAG) can be used to perform analysis on different files, such as the old Medical Device Directive (MDD 93/42/EEC), the new, stricter, Medical Device Regulation (MDR 2017/745), the FDA regulation and the WHO one.
 
-This project was developed as a proof-of-concept to address the significant regulatory challenges faced by MedTech companies.
+This project was developed as a proof-of-concept to address the significant regulatory challenges faced by MedTech companies and was then improved with notebooks from a coding challenge.
 
 ---
 
@@ -13,6 +13,8 @@ This repository demonstrates a progressive development path through three key st
 1.  **Simple Q&A on a Single Document:** A foundational RAG system that answers questions based on the content of the MDR document.
 2.  **Comparative Gap Analysis:** An advanced RAG system that queries two documents (MDD and MDR) simultaneously to identify and explain the differences and new requirements.
 3.  **Interactive Web Application:** A user-friendly Gradio application that wraps the gap analysis engine, providing an intuitive interface for non-technical users.
+
+Subsequently, I added 3 notebooks showcasing a multi-agent approach.
 
 ---
 
@@ -91,3 +93,18 @@ The core work is presented in three Jupyter Notebooks, located in the `notebooks
 * **Purpose:** An improved, text-based, fully functional RAG prototype.
 * **Functionality:** This notebook switches from the PDF chunking to a more effective txt chunking. Creates a golden dataset focusing less on the low-level PDF logic that is harder to implement in the short term, highly improving answers' source relevance.
 * **How to use:** The code is formatted in a single cell. Run the cell and the app will start. Note: if the share parameter on the launch function is set to True, it will also create a public URL to showcase the application.
+
+### 5. `MultiAgentRAG_initial_design.ipynb`
+* **Purpose:** A multi-agent (3) RAG prototype on FDA-WHO documentation.
+* **Functionality:** I introduce a 3-agent approach to the analysis of documents. an orchestrator, a RAG agent and a response agent work together retrieving documents and crafting an answer.
+* **How to use:** Open and run the cells sequentially to see the basic RAG pipeline in action.
+
+### 6. `MultiAgentRAG_chunking_agent.ipynb`
+* **Purpose:** Adding a chunking agent to the last notebook.
+* **Functionality:** In this notebook I explore chunking techniques, from non-intelligent logic (paragraphs, length, etc.) to semantic chunking, peaking with a focused agent who performs this task.
+* **How to use:** Open and run the cell. N.B: I still have to finish the parsing of the chunking agent, therefore the code can show some bugs.
+
+### 7. `MultiAgentRAG_final_implementation.ipynb`
+* **Purpose:** The working prototype.
+* **Functionality:** This code showcases a paper explaining design choices, a personal README, and improved prompting structure.
+* **How to use:** Open and run the cells subsequently.
